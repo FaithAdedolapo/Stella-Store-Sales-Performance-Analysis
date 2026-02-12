@@ -1,10 +1,10 @@
 # Data Project Documentation Template
 
-A production-ready GitHub template for documenting data analysis, SQL, dashboard, pipeline, and machine learning projects — with built-in examples, narrative guidance, and adaptable structure.
+A production-ready GitHub template for documenting data analysis, SQL, dashboard, pipeline, and machine learning projects - with built-in examples, narrative guidance, and adaptable structure.
 
 ## What This Is
 
-This is a **cloneable template repository** designed to help data analysts, scientists, and engineers document their projects the way senior practitioners do — with clarity, structure, and storytelling.
+This is a **cloneable template repository** designed to help data analysts, scientists, and engineers document their projects the way senior practitioners do - with clarity, structure, and storytelling.
 
 Every section includes:
 - Plain-language instructions on what to write
@@ -21,7 +21,7 @@ It works for **any kind of data project:**
 
 ## Why This Exists
 
-After hundreds of portfolio reviews, the pattern was clear: **the projects that stand out aren't always the most technically sophisticated — they're the ones where the README tells a clear story.**
+After hundreds of portfolio reviews, the pattern was clear: **the projects that stand out aren't always the most technically sophisticated - they're the ones where the README tells a clear story.**
 
 Most data professionals never learn how to document their work. This template fixes that.
 
@@ -38,10 +38,10 @@ Full walkthrough: [HOW_TO_USE.md](HOW_TO_USE.md)
 ## What's Inside
 
 The template includes:
-- **README_TEMPLATE.md** — The fill-in-the-blank documentation template
-- **project_metadata.yml** — Optional machine-readable metadata
-- **Complete folder structure** — Pre-built folders for data, notebooks, scripts, queries, reports, visuals, and docs
-- **.gitignore** — Pre-configured to exclude data files
+- **README_TEMPLATE.md** - The fill-in-the-blank documentation template
+- **project_metadata.yml** - Optional machine-readable metadata
+- **Complete folder structure** - Pre-built folders for data, notebooks, scripts, queries, reports, visuals, and docs
+- **.gitignore** - Pre-configured to exclude data files
 
 ## Who This Is For
 
@@ -61,7 +61,7 @@ The template includes:
 
 ## License
 
-MIT License — use this however you want.
+MIT License - use this however you want.
 
 ## Credits
 
