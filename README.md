@@ -65,6 +65,6 @@ MIT License - use this however you want.
 
 ## Credits
 
-Created by **[Your Name]**
+Created by **Issy BI**
 
 If this helped you, consider starring the repo or sharing it with someone building their data portfolio.
