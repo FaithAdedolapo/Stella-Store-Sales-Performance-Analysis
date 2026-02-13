@@ -1,5 +1,5 @@
 # [Project Title]
-> *One sentence. What did you analyze, build, or solve — and why does it matter?*
+> *One sentence. What did you analyze, build, or solve - and why does it matter?*
 
 ---
 
@@ -24,7 +24,7 @@
 4. [Repository Structure](#4-repository-structure)
 5. [Data Workflow](#5-data-workflow)
 6. [Data Model & Schema](#6-data-model--schema)
-7. [ERD — Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
+7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
 8. [Analysis & Metrics](#8-analysis--metrics)
 9. [Key Insights](#9-key-insights)
 10. [Recommendations](#10-recommendations)
@@ -40,7 +40,7 @@
 <!--
   Write 3–5 sentences in plain language.
   Cover: context → problem → approach → outcome.
-  Read it out loud. If it sounds like a form — rewrite it.
+  Read it out loud. If it sounds like a form - rewrite it.
 
   WHAT GOOD LOOKS LIKE:
   "A mid-size retail business was seeing inconsistent revenue across
@@ -48,7 +48,7 @@
   explored 18 months of transaction data across five regions to determine
   whether underperformance was driven by sales volume, pricing, or return
   rates. The analysis revealed that one region's gap was almost entirely
-  explained by an unusually high return rate on a single product category —
+  explained by an unusually high return rate on a single product category -
   a finding invisible in the company's top-level reporting."
 
   WHAT TO AVOID:
@@ -60,7 +60,7 @@
 
 **Problem Statement:** [The specific question or challenge you were addressing.]
 
-**Approach:** [In 1–2 sentences — how did you tackle it?]
+**Approach:** [In 1–2 sentences - how did you tackle it?]
 
 **Outcome:** [What did you produce or discover?]
 
@@ -81,7 +81,7 @@
   ❌ "Explore the data."
   ❌ "Gain insights."
   ❌ "Understand trends."
-  (These can't fail — which means they can't succeed either.)
+  (These can't fail - which means they can't succeed either.)
 -->
 
 - **Primary Objective:** [The main thing you set out to do]
@@ -101,7 +101,7 @@
   WHAT GOOD LOOKS LIKE:
   In Scope: "Transaction-level data for Regions A–E, Jan 2023–Jun 2024.
              Analysis covers revenue, return rates, and product category performance."
-  Out of Scope: "Customer demographics and marketing spend data were excluded —
+  Out of Scope: "Customer demographics and marketing spend data were excluded -
                  demographic data was incomplete for two regions, and marketing
                  data sits in a separate system outside this engagement."
 
@@ -112,16 +112,16 @@
 
 | Dimension | Details |
 |-----------|---------|
-| **In Scope** | [What is included — data sources, time periods, segments] |
-| **Out of Scope** | [What you explicitly excluded — and a brief reason why] |
+| **In Scope** | [What is included - data sources, time periods, segments] |
+| **Out of Scope** | [What you explicitly excluded - and a brief reason why] |
 | **Time Period** | [Date range of the data or the project itself] |
-| **Granularity** | [Unit of analysis — row-level, daily aggregates, per-user, etc.] |
+| **Granularity** | [Unit of analysis - row-level, daily aggregates, per-user, etc.] |
 
 ### Tools & Technologies
 
 <!--
   List only what you actually used on this project.
-  This is not your skills section — it's the project's technical context.
+  This is not your skills section - it's the project's technical context.
 -->
 
 | Category | Tool(s) Used |
@@ -142,7 +142,7 @@
 [project-root]/
 │
 ├── data/
-│   ├── raw/                  # Original, unmodified source data — never edited
+│   ├── raw/                  # Original, unmodified source data - never edited
 │   ├── processed/            # Cleaned and transformed data
 │   └── external/             # Reference data, lookup tables, third-party files
 │
@@ -173,7 +173,7 @@
 ## 5. Data Workflow
 
 <!--
-  Show how data moved through your project — from source to output.
+  Show how data moved through your project - from source to output.
   Every transformation decision should be traceable here.
 
   WHAT GOOD LOOKS LIKE:
@@ -210,7 +210,7 @@
 2. **Ingestion:** [How was it brought in?]
 3. **Cleaning:** [What issues did you find and fix?]
 4. **Transformation:** [What new fields, aggregations, or structures did you create?]
-5. **Analysis:** [What methods — statistical, visual, query-based, model-based?]
+5. **Analysis:** [What methods - statistical, visual, query-based, model-based?]
 6. **Output:** [What form do the results take?]
 
 ---
@@ -254,8 +254,8 @@
 
 ---
 
-## 7. ERD — Entity Relationship Diagram
-### *(Primarily for SQL Projects — remove this section if not applicable)*
+## 7. ERD - Entity Relationship Diagram
+### *(Primarily for SQL Projects - remove this section if not applicable)*
 
 <!--
   An ERD shows how your tables connect to each other visually.
@@ -263,28 +263,28 @@
   of a SQL project without reading every query.
 
   HOW TO INCLUDE YOUR ERD:
-  Option A — Image embed (most common):
+  Option A - Image embed (most common):
     Export your ERD from dbdiagram.io, DBeaver, Lucidchart, or similar.
     Save to /visuals/erd.png and reference it below.
 
-  Option B — dbdiagram.io code block (version-controllable):
+  Option B - dbdiagram.io code block (version-controllable):
     Paste your schema definition code directly in the fenced block below.
     Anyone can paste it into dbdiagram.io to regenerate the visual.
 
-  Option C — Mermaid diagram (renders natively in GitHub):
+  Option C - Mermaid diagram (renders natively in GitHub):
     Use the mermaid code block syntax below.
     GitHub will render this as a diagram automatically.
 
   PICK ONE. Don't use all three. Delete the options you don't use.
 -->
 
-### Option A — Embedded Image
+### Option A - Embedded Image
 ![ERD Diagram](visuals/erd.png)
-*[Brief caption: e.g., "Three-table schema — orders, customers, and products joined on shared IDs."]*
+*[Brief caption: e.g., "Three-table schema - orders, customers, and products joined on shared IDs."]*
 
 ---
 
-### Option B — dbdiagram.io Schema Definition
+### Option B - dbdiagram.io Schema Definition
 ```
 Table orders {
   order_id    int     [pk]
@@ -310,7 +310,7 @@ Table products {
 
 ---
 
-### Option C — Mermaid Diagram *(renders on GitHub)*
+### Option C - Mermaid Diagram *(renders on GitHub)*
 ```mermaid
 erDiagram
     ORDERS {
@@ -349,25 +349,25 @@ erDiagram
 ## 8. Analysis & Metrics
 
 <!--
-  Explain what you measured and how — before you share what you found.
+  Explain what you measured and how - before you share what you found.
 
   WHAT GOOD LOOKS LIKE:
   Metric: "Customer Return Rate"
   Definition: "Number of transactions flagged as returns divided by total
                transactions, calculated at product-category and regional grain."
-  Why It Matters: "Return rate — not sales volume — was hypothesised to
+  Why It Matters: "Return rate - not sales volume - was hypothesised to
                   explain regional revenue gaps. This metric tests that hypothesis."
 
   WHAT TO AVOID:
   ❌ Defining a metric only in code: SUM(returns) / COUNT(transaction_id)
      That's an implementation. Write the plain-language definition here.
-     Both belong in your project — the definition in the README,
+     Both belong in your project - the definition in the README,
      the implementation in the code.
 -->
 
 ### Analytical Approach
 
-[Describe how you approached the analysis. Were you exploring patterns? Testing a hypothesis? Building and validating a pipeline? Be honest about your method — exploratory work is valid, just call it that.]
+[Describe how you approached the analysis. Were you exploring patterns? Testing a hypothesis? Building and validating a pipeline? Be honest about your method - exploratory work is valid, just call it that.]
 
 ### Key Metrics Defined
 
@@ -379,7 +379,7 @@ erDiagram
 
 ### Methods Used
 
-- [e.g., Descriptive statistics — distribution, central tendency, outlier detection]
+- [e.g., Descriptive statistics - distribution, central tendency, outlier detection]
 - [e.g., Trend analysis across [time period]]
 - [e.g., Segmentation / group comparison by [dimension]]
 - [e.g., Correlation analysis between [variable A] and [variable B]]
@@ -391,11 +391,11 @@ erDiagram
 ## 9. Key Insights
 
 <!--
-  Findings + implications. Not just what happened — what it means.
+  Findings + implications. Not just what happened - what it means.
 
   WHAT GOOD LOOKS LIKE:
   ✅ "Return rates, not sales volume, explain Region A's underperformance.
-      Region A's return rate on home goods was 34% — more than double the
+      Region A's return rate on home goods was 34% - more than double the
       company average. Revenue was not lost at the point of sale; it was
       lost post-sale through refunds. This points to a fulfilment or
       product quality issue specific to that region, not a demand problem."
@@ -431,9 +431,9 @@ erDiagram
   WHAT GOOD LOOKS LIKE:
   Priority: High
   Recommendation: "Conduct a fulfilment audit for home goods deliveries
-                   in Region A — specifically investigating whether returns
+                   in Region A - specifically investigating whether returns
                    correlate with a particular warehouse, carrier, or SKU batch."
-  Based On: Insight 1 — return rate anomaly in Region A
+  Based On: Insight 1 - return rate anomaly in Region A
   Owner: Operations / Supply Chain team
 
   WHAT TO AVOID:
@@ -465,7 +465,7 @@ erDiagram
   WHAT TO AVOID:
   ❌ Leaving this section blank or writing "None known."
      Every project has limitations. Documenting them is a sign of
-     analytical maturity — not a confession of failure.
+     analytical maturity - not a confession of failure.
 -->
 
 ### Assumptions
@@ -498,7 +498,7 @@ erDiagram
   ❌ Listing aspirational features that don't follow logically from the work.
 -->
 
-- [ ] [Enhancement 1 — specific and traceable to a real gap in this project]
+- [ ] [Enhancement 1 - specific and traceable to a real gap in this project]
 - [ ] [Enhancement 2]
 - [ ] [Enhancement 3]
 - [ ] [Enhancement 4]
@@ -518,11 +518,11 @@ erDiagram
 ## 14. Author
 
 **[Your Name]**
-[Your role or title — current or target]
+[Your role or title - current or target]
 
 - 🔗 [LinkedIn URL]
 - 💼 [Portfolio or GitHub profile URL]
-- 📧 [Email — optional]
+- 📧 [Email - optional]
 
 ---
 
