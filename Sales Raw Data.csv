@@ -1,0 +1,2099 @@
+Date,Region,City,Customer Type,Channel,Product,Category,Unit Price,Quantity,Sales Rep,Cost Price
+2025-01-19,West,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,1,Chidinma,68000
+2025-04-29,East,Lagos,Retail,Store,Blender B10,Home Appliances,30000,8,Chidinma,24000
+2025-02-27,East,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,2,David,68000
+2025-04-25,South,Kano,Retail,Online,Microwave M20,Home Appliances,60000,2,Musa,48000
+2025-04-27,North,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,2,Chidinma,240000
+2025-03-08,South,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,Chidinma,144000
+2025-03-09,South,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,4,Musa,256000
+2025-02-06,South,Kano,Retail,Online,Sofa Classic,Furniture,320000,1,Peter,256000
+2025-03-24,East,Lagos,Retail,Store,Sofa Classic,Furniture,320000,9,Musa,256000
+2025-03-26,South,Lagos,Retail,Online,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-01-24,South,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,4,Peter,120000
+2025-01-20,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,7,Peter,256000
+2025-04-26,South,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,2,Aisha,120000
+2025-03-15,West,Lagos,Retail,Online,Laptop A13,Electronics,420000,9,Musa,336000
+2025-03-17,North,Lagos,Retail,Online,Laptop A13,Electronics,420000,5,Grace,336000
+2025-04-11,West,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,4,Peter,200000
+2025-02-12,West,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,2,Peter,176000
+2025-02-10,East,Kano,Retail,Store,Printer P50,Electronics,150000,7,Musa,120000
+2025-03-03,South,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,5,Peter,240000
+2025-02-10,North,Kano,Retail,Online,Printer P50,Electronics,150000,4,Peter,120000
+2025-05-01,North,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,1,Grace,68000
+2025-03-15,East,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,9,David,68000
+2025-04-04,East,Lagos,Retail,Store,Laptop A13,Electronics,420000,8,Grace,336000
+2025-04-15,North,Lagos,Corporate,Online,Laptop A13,Electronics,420000,10,Grace,336000
+2025-02-26,East,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,5,Aisha,200000
+2025-02-09,North,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,Grace,176000
+2025-03-30,West,Abuja,Corporate,Online,Printer P50,Electronics,150000,7,Musa,120000
+2025-03-01,South,Kano,Retail,Online,Office Chair Pro,Furniture,85000,3,Peter,68000
+2025-02-10,East,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,8,Grace,240000
+2025-02-09,West,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,1,David,176000
+2025-01-14,South,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,7,Grace,256000
+2025-01-01,West,Abuja,Retail,Store,Printer P50,Electronics,150000,1,Chidinma,120000
+2025-02-20,East,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,9,Grace,144000
+2025-03-09,South,Kano,Retail,Online,Sofa Classic,Furniture,320000,5,Grace,256000
+2025-02-09,South,Kano,Corporate,Store,Printer P50,Electronics,150000,8,Aisha,120000
+2025-02-13,West,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,7,David,68000
+2025-03-13,South,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,6,David,256000
+2025-02-03,West,Kano,Retail,Store,Laptop A13,Electronics,420000,8,Aisha,336000
+2025-02-04,South,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,7,Peter,240000
+2025-02-18,West,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,6,David,24000
+2025-02-21,West,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,Peter,176000
+2025-01-24,West,Abuja,Retail,Online,Printer P50,Electronics,150000,1,David,120000
+2025-01-28,North,Lagos,Retail,Store,Sofa Classic,Furniture,320000,1,Grace,256000
+2025-04-18,North,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,3,David,24000
+2025-01-03,West,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,5,Musa,48000
+2025-03-30,East,Kano,Corporate,Online,Printer P50,Electronics,150000,3,Musa,120000
+2025-04-04,East,Lagos,Retail,Online,Sofa Classic,Furniture,320000,10,Musa,256000
+2025-02-08,East,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,6,Chidinma,176000
+2025-03-16,West,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Musa,144000
+2025-01-26,West,Kano,Retail,Store,Sofa Classic,Furniture,320000,2,David,256000
+2025-02-06,West,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,9,Peter,240000
+2025-01-17,North,Kano,Retail,Store,Laptop A13,Electronics,420000,1,Peter,336000
+2025-04-06,East,Kano,Retail,Online,Microwave M20,Home Appliances,60000,1,Musa,48000
+2025-03-09,East,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,9,Peter,240000
+2025-01-06,West,Kano,Corporate,Online,Laptop A13,Electronics,420000,9,David,336000
+2025-02-20,East,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-01-02,South,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,10,Peter,68000
+2025-02-13,West,Kano,Corporate,Online,Printer P50,Electronics,150000,4,Chidinma,120000
+2025-01-20,East,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,1,Musa,200000
+2025-03-19,South,Lagos,Retail,Online,Blender B10,Home Appliances,30000,10,Musa,24000
+2025-03-05,South,Lagos,Corporate,Online,Laptop A13,Electronics,420000,4,David,336000
+2025-03-07,East,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,2,Peter,68000
+2025-03-28,East,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,1,Musa,176000
+2025-01-14,West,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,Grace,144000
+2025-04-15,West,Kano,Retail,Store,Smartphone Z10,Electronics,250000,6,Chidinma,200000
+2025-04-16,West,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,3,Grace,144000
+2025-02-05,South,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,8,Peter,48000
+2025-04-10,North,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,3,Chidinma,48000
+2025-03-31,West,Kano,Corporate,Online,Blender B10,Home Appliances,30000,8,Musa,24000
+2025-01-09,South,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,4,Grace,48000
+2025-02-19,South,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,3,David,24000
+2025-02-17,East,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,Musa,144000
+2025-04-21,North,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,3,Grace,176000
+2025-04-21,West,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,4,Aisha,48000
+2025-04-13,North,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,1,Aisha,68000
+2025-02-19,East,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,5,David,24000
+2025-02-18,East,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,3,Aisha,48000
+2025-02-03,West,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,6,Chidinma,48000
+2025-01-14,South,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,2,Chidinma,240000
+2025-01-23,West,Kano,Retail,Online,Printer P50,Electronics,150000,7,David,120000
+2025-04-19,North,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,Musa,176000
+2025-01-06,West,Kano,Retail,Store,Microwave M20,Home Appliances,60000,9,Peter,48000
+2025-02-26,West,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,2,Musa,256000
+2025-02-09,West,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,Chidinma,176000
+2025-01-23,West,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,1,Grace,120000
+2025-02-13,South,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,8,Chidinma,240000
+2025-02-20,East,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,3,Aisha,176000
+2025-01-15,West,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,8,Chidinma,200000
+2025-04-19,South,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,4,Musa,240000
+2025-05-01,South,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,1,Musa,240000
+2025-04-27,East,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,8,Musa,200000
+2025-03-04,West,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,Aisha,144000
+2025-02-03,West,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,Musa,144000
+2025-02-16,North,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,2,Musa,240000
+2025-04-29,East,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,6,Chidinma,120000
+2025-03-06,South,Lagos,Corporate,Store,Laptop A13,Electronics,420000,10,Chidinma,336000
+2025-04-30,East,Kano,Retail,Online,Laptop A13,Electronics,420000,8,Musa,336000
+2025-01-20,South,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Chidinma,144000
+2025-01-03,South,Kano,Retail,Store,Desktop PC D21,Electronics,300000,4,Aisha,240000
+2025-01-15,South,Kano,Retail,Store,Laptop A13,Electronics,420000,1,Peter,336000
+2025-03-20,West,Kano,Corporate,Online,Blender B10,Home Appliances,30000,7,Musa,24000
+2025-02-26,South,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,3,Musa,336000
+2025-04-28,South,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,5,Grace,48000
+2025-04-21,West,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,9,Grace,240000
+2025-04-26,East,Kano,Retail,Store,Sofa Classic,Furniture,320000,4,Peter,256000
+2025-01-28,North,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,Grace,144000
+2025-02-24,East,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,1,Peter,68000
+2025-02-11,North,Kano,Corporate,Store,Sofa Classic,Furniture,320000,7,Peter,256000
+2025-02-08,East,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,9,Chidinma,48000
+2025-01-03,North,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,1,David,68000
+2025-03-26,East,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,6,Grace,240000
+2025-01-17,North,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,5,Chidinma,24000
+2025-03-09,North,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,4,Aisha,120000
+2025-03-26,South,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,6,Aisha,120000
+2025-04-19,North,Lagos,Corporate,Store,Printer P50,Electronics,150000,8,Aisha,120000
+2025-01-16,South,Lagos,Retail,Store,Blender B10,Home Appliances,30000,6,Chidinma,24000
+2025-01-21,West,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,3,Peter,200000
+2025-03-14,South,Lagos,Corporate,Online,Printer P50,Electronics,150000,5,Chidinma,120000
+2025-03-18,West,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,1,Aisha,176000
+2025-01-13,North,Lagos,Retail,Store,Sofa Classic,Furniture,320000,10,Peter,256000
+2025-01-26,South,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,5,David,48000
+2025-04-10,East,Abuja,Retail,Store,Printer P50,Electronics,150000,7,Grace,120000
+2025-04-27,North,Kano,Retail,Online,Microwave M20,Home Appliances,60000,7,Musa,48000
+2025-02-10,North,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,Peter,176000
+2025-02-21,East,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,6,David,200000
+2025-03-07,North,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,10,Chidinma,336000
+2025-03-30,East,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,9,Grace,24000
+2025-03-21,West,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Musa,144000
+2025-01-23,North,Lagos,Retail,Online,Laptop A13,Electronics,420000,5,Aisha,336000
+2025-01-09,West,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,9,Chidinma,48000
+2025-02-12,South,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,5,David,68000
+2025-04-05,South,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,1,Musa,68000
+2025-01-26,East,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,8,Peter,48000
+2025-04-27,West,Kano,Corporate,Online,Printer P50,Electronics,150000,5,Aisha,120000
+2025-03-30,West,Abuja,Retail,Online,Sofa Classic,Furniture,320000,10,Peter,256000
+2025-01-29,West,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,6,Grace,200000
+2025-01-21,South,Kano,Corporate,Online,Printer P50,Electronics,150000,3,Chidinma,120000
+2025-03-21,West,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,10,Aisha,48000
+2025-04-11,North,Kano,Retail,Online,Printer P50,Electronics,150000,8,Musa,120000
+2025-04-28,South,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,7,Aisha,200000
+2025-04-27,South,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,6,Peter,68000
+2025-02-11,North,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,Aisha,144000
+2025-03-24,West,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-01-22,South,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,1,David,68000
+2025-02-05,West,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,8,Grace,24000
+2025-01-16,North,Kano,Retail,Online,Sofa Classic,Furniture,320000,2,Aisha,256000
+2025-03-15,East,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,5,Aisha,120000
+2025-03-23,East,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,5,Grace,200000
+2025-01-19,North,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,10,David,176000
+2025-04-13,North,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,2,Peter,48000
+2025-01-16,North,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,1,Aisha,200000
+2025-01-15,West,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,Grace,144000
+2025-01-01,North,Lagos,Retail,Online,Printer P50,Electronics,150000,1,Chidinma,120000
+2025-02-01,North,Abuja,Retail,Online,Blender B10,Home Appliances,30000,6,David,24000
+2025-01-21,West,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,10,Grace,176000
+2025-01-17,West,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,1,David,336000
+2025-01-14,West,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,8,David,240000
+2025-02-26,North,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,3,Chidinma,200000
+2025-03-13,West,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,4,Peter,240000
+2025-04-02,West,Kano,Retail,Online,Printer P50,Electronics,150000,6,Peter,120000
+2025-04-14,West,Abuja,Retail,Online,Laptop A13,Electronics,420000,2,Chidinma,336000
+2025-01-27,South,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,1,David,176000
+2025-04-17,South,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-03-19,North,Kano,Retail,Store,Blender B10,Home Appliances,30000,10,Grace,24000
+2025-03-02,North,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,4,Grace,24000
+2025-04-07,West,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,Chidinma,144000
+2025-04-03,West,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,2,Grace,240000
+2025-01-27,East,Lagos,Retail,Online,Printer P50,Electronics,150000,9,Chidinma,120000
+2025-03-30,North,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,9,David,120000
+2025-02-07,West,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,4,Chidinma,24000
+2025-05-01,East,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,9,Musa,48000
+2025-01-10,South,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,9,Musa,240000
+2025-04-21,North,Abuja,Retail,Online,Sofa Classic,Furniture,320000,3,Grace,256000
+2025-04-25,West,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,1,Chidinma,120000
+2025-04-02,North,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,9,Musa,240000
+2025-01-14,East,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,3,David,176000
+2025-04-19,West,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,Grace,176000
+2025-01-07,East,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,6,Grace,48000
+2025-02-04,North,Kano,Retail,Store,Blender B10,Home Appliances,30000,10,Peter,24000
+2025-01-02,South,Kano,Corporate,Store,Laptop A13,Electronics,420000,8,Grace,336000
+2025-03-26,South,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,9,Chidinma,48000
+2025-01-18,East,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,1,Peter,200000
+2025-02-23,South,Kano,Retail,Online,Microwave M20,Home Appliances,60000,1,Grace,48000
+2025-04-16,South,Abuja,Retail,Online,Laptop A13,Electronics,420000,8,Grace,336000
+2025-02-03,South,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,Grace,144000
+2025-03-17,East,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,Grace,144000
+2025-01-03,North,Kano,Retail,Online,Blender B10,Home Appliances,30000,6,Aisha,24000
+2025-02-20,East,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,David,144000
+2025-04-25,East,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,3,Musa,240000
+2025-01-21,West,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,3,Chidinma,48000
+2025-02-20,East,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,1,Musa,176000
+2025-02-05,North,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,2,David,240000
+2025-03-05,South,Kano,Retail,Online,Printer P50,Electronics,150000,3,David,120000
+2025-02-04,North,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,1,David,68000
+2025-01-02,South,Lagos,Retail,Store,Blender B10,Home Appliances,30000,6,Chidinma,24000
+2025-03-02,West,Kano,Corporate,Online,Printer P50,Electronics,150000,5,Musa,120000
+2025-04-19,West,Lagos,Retail,Store,Blender B10,Home Appliances,30000,5,Aisha,24000
+2025-04-12,East,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,Grace,144000
+2025-02-05,North,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,6,Musa,48000
+2025-03-19,North,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,10,David,200000
+2025-02-04,South,Kano,Retail,Store,Laptop A13,Electronics,420000,3,David,336000
+2025-01-12,North,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,3,David,120000
+2025-03-31,South,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,David,176000
+2025-01-01,South,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,10,David,68000
+2025-03-20,North,Kano,Retail,Store,Desktop PC D21,Electronics,300000,6,Grace,240000
+2025-02-25,West,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,8,Aisha,240000
+2025-02-03,South,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,4,Musa,256000
+2025-04-06,South,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,5,Grace,144000
+2025-01-01,West,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,Peter,144000
+2025-03-15,East,Kano,Corporate,Store,Printer P50,Electronics,150000,9,Musa,120000
+2025-01-31,West,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,1,Peter,120000
+2025-01-12,East,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,Peter,144000
+2025-03-11,West,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,Musa,144000
+2025-04-11,North,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,Aisha,144000
+2025-03-14,North,Kano,Retail,Online,Printer P50,Electronics,150000,10,Chidinma,120000
+2025-04-12,South,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Aisha,144000
+2025-02-20,West,Kano,Retail,Store,Desktop PC D21,Electronics,300000,8,Musa,240000
+2025-02-05,West,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,Peter,256000
+2025-01-18,South,Kano,Retail,Online,Sofa Classic,Furniture,320000,7,Grace,256000
+2025-04-26,East,Abuja,Retail,Online,Printer P50,Electronics,150000,7,David,120000
+2025-01-21,East,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,6,Grace,176000
+2025-03-16,North,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,1,Peter,200000
+2025-03-18,West,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,4,David,48000
+2025-01-02,North,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,9,David,68000
+2025-03-02,West,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,Chidinma,144000
+2025-01-24,West,Lagos,Retail,Store,Printer P50,Electronics,150000,4,Chidinma,120000
+2025-02-15,North,Lagos,Retail,Online,Printer P50,Electronics,150000,4,Musa,120000
+2025-04-16,East,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,2,Musa,24000
+2025-04-24,South,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,Aisha,144000
+2025-04-10,North,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,9,Grace,48000
+2025-03-03,South,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,3,David,120000
+2025-04-18,North,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,3,Musa,68000
+2025-04-03,East,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,3,Peter,24000
+2025-03-08,East,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-01-10,West,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,6,Chidinma,24000
+2025-04-28,West,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,1,Chidinma,256000
+2025-04-19,South,Lagos,Retail,Store,Laptop A13,Electronics,420000,5,Aisha,336000
+2025-04-02,West,Abuja,Retail,Store,Blender B10,Home Appliances,30000,9,Grace,24000
+2025-01-18,South,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,8,Aisha,48000
+2025-01-10,West,Kano,Retail,Online,Desktop PC D21,Electronics,300000,2,Musa,240000
+2025-03-16,South,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,7,Musa,176000
+2025-02-08,North,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,8,Chidinma,240000
+2025-02-12,East,Lagos,Corporate,Store,Laptop A13,Electronics,420000,10,Peter,336000
+2025-04-10,East,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,2,Peter,240000
+2025-02-07,East,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,Musa,176000
+2025-02-03,East,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,6,David,68000
+2025-02-24,North,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,10,Grace,256000
+2025-01-03,East,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,2,David,240000
+2025-03-19,South,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,6,Grace,24000
+2025-02-14,South,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,2,Musa,48000
+2025-01-03,North,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,5,Chidinma,176000
+2025-02-05,West,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,Grace,144000
+2025-04-15,North,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,4,Peter,200000
+2025-03-09,North,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,10,David,68000
+2025-03-18,West,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,6,David,240000
+2025-01-15,North,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,Chidinma,176000
+2025-01-06,North,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,Grace,24000
+2025-03-11,North,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-02-01,South,Abuja,Retail,Store,Printer P50,Electronics,150000,3,Peter,120000
+2025-03-26,East,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,1,Aisha,68000
+2025-02-24,South,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,3,Grace,200000
+2025-04-01,East,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,2,Chidinma,336000
+2025-03-08,West,Kano,Retail,Online,Printer P50,Electronics,150000,9,Musa,120000
+2025-01-16,North,Abuja,Retail,Store,Blender B10,Home Appliances,30000,9,David,24000
+2025-04-03,East,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,6,Grace,176000
+2025-04-02,North,Kano,Corporate,Store,Blender B10,Home Appliances,30000,3,Grace,24000
+2025-02-01,West,Kano,Retail,Online,Laptop A13,Electronics,420000,10,David,336000
+2025-04-12,North,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,2,Aisha,24000
+2025-02-03,East,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,5,David,120000
+2025-04-16,South,Abuja,Retail,Store,Printer P50,Electronics,150000,10,Aisha,120000
+2025-01-11,West,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,David,144000
+2025-02-02,East,Kano,Corporate,Online,Blender B10,Home Appliances,30000,10,Musa,24000
+2025-01-04,East,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,2,Musa,336000
+2025-03-14,South,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,1,Peter,256000
+2025-03-27,North,Lagos,Retail,Online,Printer P50,Electronics,150000,2,Musa,120000
+2025-04-25,East,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,9,Grace,24000
+2025-02-26,West,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,7,Peter,68000
+2025-02-02,North,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,5,David,120000
+2025-01-01,West,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,Chidinma,256000
+2025-03-06,North,Lagos,Retail,Online,Sofa Classic,Furniture,320000,10,Peter,256000
+2025-01-03,North,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,7,Peter,68000
+2025-04-21,South,Kano,Retail,Online,Microwave M20,Home Appliances,60000,4,Peter,48000
+2025-04-04,East,Kano,Retail,Store,Microwave M20,Home Appliances,60000,7,David,48000
+2025-04-08,South,Lagos,Corporate,Online,Printer P50,Electronics,150000,7,Grace,120000
+2025-04-22,West,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,3,David,68000
+2025-03-19,South,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,10,Musa,68000
+2025-04-22,East,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,10,David,240000
+2025-03-20,South,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,3,Chidinma,48000
+2025-02-27,East,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,3,David,48000
+2025-01-20,West,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,6,David,68000
+2025-04-24,East,Kano,Corporate,Store,Laptop A13,Electronics,420000,2,Aisha,336000
+2025-02-15,North,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,6,Grace,200000
+2025-03-11,North,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,8,David,120000
+2025-04-28,East,Kano,Corporate,Online,Printer P50,Electronics,150000,10,David,120000
+2025-04-22,East,Kano,Retail,Online,Smartphone Z10,Electronics,250000,5,Grace,200000
+2025-02-16,West,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,Chidinma,256000
+2025-03-19,West,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,10,Grace,144000
+2025-02-07,West,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,6,Aisha,48000
+2025-01-16,West,Kano,Corporate,Online,Printer P50,Electronics,150000,10,Musa,120000
+2025-02-26,East,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,5,Aisha,200000
+2025-01-22,West,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,Chidinma,144000
+2025-02-14,West,Kano,Corporate,Store,Sofa Classic,Furniture,320000,5,Aisha,256000
+2025-02-05,South,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,10,David,256000
+2025-02-26,East,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,5,Chidinma,24000
+2025-02-19,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-03-08,East,Kano,Retail,Online,Blender B10,Home Appliances,30000,4,Peter,24000
+2025-04-08,East,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,Chidinma,144000
+2025-02-23,East,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,5,Grace,200000
+2025-03-25,West,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,Peter,144000
+2025-03-20,East,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,5,Grace,240000
+2025-01-19,West,Kano,Retail,Store,Office Chair Pro,Furniture,85000,8,Peter,68000
+2025-04-20,East,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,Grace,144000
+2025-01-23,East,Lagos,Corporate,Online,Laptop A13,Electronics,420000,7,Aisha,336000
+2025-03-06,South,Kano,Corporate,Online,Printer P50,Electronics,150000,8,Chidinma,120000
+2025-04-12,East,Kano,Retail,Online,Office Chair Pro,Furniture,85000,6,Aisha,68000
+2025-04-21,South,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,Musa,144000
+2025-03-11,West,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,5,Aisha,200000
+2025-01-04,North,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,Musa,256000
+2025-01-19,North,Lagos,Corporate,Store,Printer P50,Electronics,150000,7,David,120000
+2025-03-19,East,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,9,Aisha,336000
+2025-01-10,South,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,4,David,48000
+2025-04-28,West,Kano,Retail,Store,Smartphone Z10,Electronics,250000,5,David,200000
+2025-01-09,West,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,8,Peter,240000
+2025-01-30,West,Kano,Corporate,Online,Laptop A13,Electronics,420000,4,Grace,336000
+2025-03-17,West,Kano,Corporate,Store,Blender B10,Home Appliances,30000,4,David,24000
+2025-01-10,East,Abuja,Retail,Online,Sofa Classic,Furniture,320000,7,David,256000
+2025-01-02,South,Lagos,Retail,Online,Printer P50,Electronics,150000,8,Aisha,120000
+2025-03-14,West,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,7,Musa,48000
+2025-04-19,South,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,David,144000
+2025-04-26,West,Kano,Corporate,Store,Laptop A13,Electronics,420000,8,Aisha,336000
+2025-02-17,West,Kano,Retail,Store,Desktop PC D21,Electronics,300000,2,Grace,240000
+2025-03-27,South,Lagos,Corporate,Online,Laptop A13,Electronics,420000,3,Aisha,336000
+2025-03-06,North,Kano,Retail,Online,Office Chair Pro,Furniture,85000,3,Musa,68000
+2025-01-17,West,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,8,David,48000
+2025-01-07,West,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,10,Peter,144000
+2025-03-19,East,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,Chidinma,144000
+2025-01-11,East,Abuja,Retail,Store,Blender B10,Home Appliances,30000,3,Musa,24000
+2025-04-20,North,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,6,David,24000
+2025-04-12,North,Lagos,Corporate,Online,Laptop A13,Electronics,420000,4,Aisha,336000
+2025-03-07,East,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,8,Grace,176000
+2025-02-27,North,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,5,Chidinma,68000
+2025-04-12,West,Lagos,Retail,Online,Sofa Classic,Furniture,320000,7,Musa,256000
+2025-04-03,South,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,Chidinma,144000
+2025-01-19,East,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,2,Aisha,48000
+2025-02-24,West,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,David,144000
+2025-04-28,East,Abuja,Corporate,Store,Printer P50,Electronics,150000,6,Aisha,120000
+2025-01-27,East,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,2,Aisha,24000
+2025-04-23,North,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,9,Aisha,200000
+2025-01-21,West,Kano,Retail,Store,Microwave M20,Home Appliances,60000,4,David,48000
+2025-03-27,East,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,9,Aisha,120000
+2025-01-18,North,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,Chidinma,144000
+2025-03-26,West,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,Chidinma,144000
+2025-01-19,East,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,2,Chidinma,176000
+2025-04-02,North,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,10,Musa,336000
+2025-03-20,West,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,9,Grace,24000
+2025-01-19,West,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,6,Peter,256000
+2025-01-24,West,Abuja,Retail,Store,Laptop A13,Electronics,420000,2,Grace,336000
+2025-04-23,South,Kano,Corporate,Online,Sofa Classic,Furniture,320000,10,Peter,256000
+2025-02-06,East,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,8,Grace,240000
+2025-02-07,East,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,1,David,48000
+2025-03-21,South,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,3,David,68000
+2025-03-25,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,10,Chidinma,24000
+2025-01-22,East,Kano,Corporate,Online,Blender B10,Home Appliances,30000,4,Peter,24000
+2025-01-27,South,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,David,120000
+2025-04-14,West,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,3,Chidinma,120000
+2025-04-30,East,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,8,Chidinma,68000
+2025-04-07,South,Kano,Corporate,Online,Laptop A13,Electronics,420000,7,Chidinma,336000
+2025-01-22,East,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,David,120000
+2025-04-25,West,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,1,Musa,256000
+2025-02-09,East,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,5,Chidinma,144000
+2025-03-28,North,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,1,Musa,240000
+2025-04-09,East,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Aisha,144000
+2025-04-05,South,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,Peter,144000
+2025-01-11,West,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,6,Grace,256000
+2025-01-18,West,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,10,Chidinma,48000
+2025-02-24,South,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,1,Aisha,240000
+2025-03-11,West,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,David,144000
+2025-01-22,East,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-02-01,North,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,7,Musa,68000
+2025-02-09,West,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,Grace,144000
+2025-02-03,North,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,3,Peter,256000
+2025-04-01,North,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,4,Chidinma,120000
+2025-04-02,East,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,10,Grace,176000
+2025-02-15,South,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,6,Chidinma,120000
+2025-01-15,West,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,Musa,144000
+2025-04-21,East,Kano,Retail,Online,Blender B10,Home Appliances,30000,2,Peter,24000
+2025-03-01,North,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,7,Chidinma,256000
+2025-02-07,North,Kano,Retail,Store,Office Chair Pro,Furniture,85000,10,David,68000
+2025-04-05,East,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,Musa,144000
+2025-03-24,South,Lagos,Retail,Online,Laptop A13,Electronics,420000,5,Peter,336000
+2025-04-04,South,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,8,David,256000
+2025-02-25,East,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,Musa,144000
+2025-03-23,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,2,Chidinma,336000
+2025-03-28,North,Kano,Retail,Online,Desktop PC D21,Electronics,300000,8,David,240000
+2025-01-02,East,Kano,Retail,Online,Sofa Classic,Furniture,320000,1,David,256000
+2025-01-17,East,Kano,Retail,Online,Laptop A13,Electronics,420000,9,Chidinma,336000
+2025-02-17,East,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,8,Grace,68000
+2025-02-03,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,10,Peter,336000
+2025-02-11,East,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,1,Peter,200000
+2025-02-22,East,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,Grace,176000
+2025-03-19,North,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,1,Chidinma,240000
+2025-02-26,North,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,6,Aisha,48000
+2025-03-04,South,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,8,David,48000
+2025-04-03,South,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,3,Aisha,176000
+2025-03-23,North,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,1,Peter,48000
+2025-03-16,East,Lagos,Corporate,Online,Printer P50,Electronics,150000,1,Musa,120000
+2025-03-16,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,7,Grace,256000
+2025-02-21,South,Kano,Retail,Store,Office Chair Pro,Furniture,85000,10,Musa,68000
+2025-04-20,West,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,10,Chidinma,120000
+2025-01-24,South,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,2,Musa,48000
+2025-03-08,North,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,6,Chidinma,240000
+2025-03-04,East,Kano,Retail,Online,Printer P50,Electronics,150000,3,Aisha,120000
+2025-03-30,West,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,2,David,24000
+2025-01-11,East,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,Aisha,144000
+2025-01-23,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-01-05,South,Kano,Corporate,Store,Blender B10,Home Appliances,30000,3,Aisha,24000
+2025-04-17,West,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,3,Peter,68000
+2025-02-26,North,Kano,Retail,Store,Office Chair Pro,Furniture,85000,10,Aisha,68000
+2025-03-06,East,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,10,Chidinma,144000
+2025-01-16,West,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,9,Musa,176000
+2025-03-03,West,Abuja,Corporate,Store,Laptop A13,Electronics,420000,9,Musa,336000
+2025-02-24,East,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,2,Aisha,144000
+2025-03-16,West,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,3,David,240000
+2025-02-25,North,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,Grace,144000
+2025-04-11,North,Lagos,Retail,Store,Sofa Classic,Furniture,320000,9,Peter,256000
+2025-03-18,North,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,5,David,256000
+2025-02-20,North,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,8,Grace,48000
+2025-03-05,South,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,8,David,68000
+2025-03-31,East,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,5,David,256000
+2025-02-18,North,Kano,Corporate,Online,Printer P50,Electronics,150000,3,Aisha,120000
+2025-01-09,North,Kano,Retail,Store,Printer P50,Electronics,150000,1,Chidinma,120000
+2025-04-21,South,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,7,David,48000
+2025-03-09,West,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,David,144000
+2025-04-29,South,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,Peter,144000
+2025-02-08,South,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,9,Chidinma,200000
+2025-03-20,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,1,David,256000
+2025-02-07,South,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Chidinma,144000
+2025-04-07,East,Kano,Retail,Store,Desktop PC D21,Electronics,300000,10,Peter,240000
+2025-04-15,South,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,4,Aisha,336000
+2025-04-20,West,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,4,Musa,24000
+2025-03-25,North,Kano,Retail,Online,Blender B10,Home Appliances,30000,10,Peter,24000
+2025-04-08,South,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,7,Chidinma,48000
+2025-03-19,North,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,Grace,144000
+2025-02-02,West,Abuja,Retail,Store,Blender B10,Home Appliances,30000,7,Peter,24000
+2025-03-05,South,Lagos,Corporate,Store,Laptop A13,Electronics,420000,10,Chidinma,336000
+2025-02-23,East,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,7,Peter,336000
+2025-04-27,South,Kano,Retail,Store,Smartphone Z10,Electronics,250000,5,David,200000
+2025-01-12,West,Abuja,Corporate,Online,Laptop A13,Electronics,420000,5,Musa,336000
+2025-04-13,East,Kano,Corporate,Store,Sofa Classic,Furniture,320000,2,Musa,256000
+2025-04-15,North,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,10,Aisha,240000
+2025-01-23,East,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,5,Aisha,200000
+2025-04-08,South,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,2,David,200000
+2025-01-21,North,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,Chidinma,144000
+2025-03-30,East,Lagos,Retail,Store,Sofa Classic,Furniture,320000,10,Peter,256000
+2025-02-11,South,Kano,Corporate,Store,Printer P50,Electronics,150000,2,Chidinma,120000
+2025-03-13,East,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Musa,144000
+2025-04-19,West,Lagos,Retail,Online,Printer P50,Electronics,150000,2,Musa,120000
+2025-04-19,South,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,10,Musa,48000
+2025-03-18,West,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,4,Peter,176000
+2025-04-27,South,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,5,Peter,48000
+2025-02-11,South,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,3,David,200000
+2025-01-16,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,1,Aisha,120000
+2025-02-24,North,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,David,176000
+2025-01-04,East,Kano,Retail,Store,Smartphone Z10,Electronics,250000,6,Aisha,200000
+2025-03-19,West,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,10,Peter,176000
+2025-04-26,East,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,David,144000
+2025-03-10,West,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,6,Grace,48000
+2025-04-20,North,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,4,David,176000
+2025-02-13,South,Abuja,Corporate,Online,Printer P50,Electronics,150000,1,David,120000
+2025-02-03,South,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,Musa,144000
+2025-04-11,East,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Musa,176000
+2025-01-26,West,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,3,David,200000
+2025-03-05,North,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,1,Peter,48000
+2025-04-13,East,Abuja,Retail,Store,Sofa Classic,Furniture,320000,4,Chidinma,256000
+2025-03-15,South,Kano,Corporate,Store,Laptop A13,Electronics,420000,8,David,336000
+2025-02-21,South,Lagos,Corporate,Store,Laptop A13,Electronics,420000,8,Peter,336000
+2025-01-30,North,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,1,Grace,48000
+2025-03-04,East,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,David,144000
+2025-01-02,West,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,David,144000
+2025-04-20,South,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,7,Peter,240000
+2025-01-10,West,Kano,Retail,Online,Smartphone Z10,Electronics,250000,6,Peter,200000
+2025-04-10,North,Kano,Retail,Store,Printer P50,Electronics,150000,5,David,120000
+2025-03-09,West,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,10,David,68000
+2025-01-15,North,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,8,Peter,68000
+2025-05-01,South,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,2,Musa,68000
+2025-03-05,West,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,4,Chidinma,200000
+2025-04-26,South,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,6,Grace,120000
+2025-02-27,South,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,10,Aisha,144000
+2025-03-25,South,Abuja,Retail,Online,Printer P50,Electronics,150000,8,Chidinma,120000
+2025-01-22,South,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,David,144000
+2025-02-20,East,Kano,Corporate,Online,Printer P50,Electronics,150000,6,Peter,120000
+2025-04-13,South,Abuja,Corporate,Store,Printer P50,Electronics,150000,4,Grace,120000
+2025-01-03,West,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,Peter,144000
+2025-04-13,North,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,6,Grace,200000
+2025-03-05,South,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,6,David,48000
+2025-01-26,North,Abuja,Corporate,Store,Printer P50,Electronics,150000,2,David,120000
+2025-02-04,East,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-02-24,South,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,5,Peter,240000
+2025-04-16,East,Kano,Corporate,Online,Laptop A13,Electronics,420000,10,Peter,336000
+2025-01-14,West,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,David,144000
+2025-03-08,East,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-02-20,North,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,4,Aisha,240000
+2025-01-28,South,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,3,Peter,68000
+2025-02-08,North,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,9,Aisha,176000
+2025-04-01,West,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,Peter,144000
+2025-03-22,East,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,9,David,240000
+2025-03-27,North,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,4,Musa,120000
+2025-01-28,East,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,8,Aisha,256000
+2025-01-10,North,Abuja,Retail,Online,Sofa Classic,Furniture,320000,7,Grace,256000
+2025-03-17,East,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,10,Musa,176000
+2025-03-03,South,Lagos,Retail,Store,Blender B10,Home Appliances,30000,7,Musa,24000
+2025-04-14,East,Kano,Retail,Online,Sofa Classic,Furniture,320000,2,Musa,256000
+2025-01-13,North,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,3,Aisha,240000
+2025-04-29,South,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,3,Musa,240000
+2025-02-12,South,Abuja,Retail,Store,Printer P50,Electronics,150000,10,Musa,120000
+2025-04-05,South,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,7,Peter,24000
+2025-04-18,West,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,2,Aisha,48000
+2025-01-11,East,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,8,Chidinma,240000
+2025-03-31,North,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,6,Musa,24000
+2025-02-12,West,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,6,David,200000
+2025-03-02,East,Abuja,Retail,Online,Laptop A13,Electronics,420000,10,Peter,336000
+2025-03-10,South,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,9,Grace,48000
+2025-01-14,East,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,Chidinma,144000
+2025-02-17,North,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Chidinma,144000
+2025-04-03,North,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,1,Aisha,24000
+2025-04-19,East,Kano,Retail,Store,Laptop A13,Electronics,420000,3,Peter,336000
+2025-04-07,East,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,8,Peter,24000
+2025-03-23,South,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,2,Musa,256000
+2025-04-28,West,Lagos,Corporate,Store,Printer P50,Electronics,150000,10,Musa,120000
+2025-04-05,North,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,9,David,200000
+2025-04-12,South,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,David,176000
+2025-03-29,West,Kano,Retail,Store,Printer P50,Electronics,150000,5,Chidinma,120000
+2025-02-02,East,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-03-15,East,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-04-04,South,Kano,Retail,Online,Sofa Classic,Furniture,320000,4,Peter,256000
+2025-01-03,East,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,2,David,200000
+2025-01-07,East,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,5,David,240000
+2025-02-15,East,Kano,Retail,Online,Microwave M20,Home Appliances,60000,9,Musa,48000
+2025-01-22,East,Kano,Corporate,Online,Printer P50,Electronics,150000,6,Musa,120000
+2025-01-16,South,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,3,Peter,68000
+2025-03-10,South,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,8,Musa,256000
+2025-03-30,East,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,1,Peter,200000
+2025-03-25,West,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,Chidinma,144000
+2025-01-09,East,Kano,Retail,Online,Microwave M20,Home Appliances,60000,6,Grace,48000
+2025-01-27,North,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,Chidinma,144000
+2025-01-29,North,Lagos,Retail,Online,Printer P50,Electronics,150000,10,Aisha,120000
+2025-03-31,East,Kano,Retail,Store,Sofa Classic,Furniture,320000,5,Aisha,256000
+2025-03-26,West,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,7,David,120000
+2025-04-25,East,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,4,Aisha,120000
+2025-02-17,North,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,6,Musa,240000
+2025-02-13,North,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,4,Musa,256000
+2025-02-18,South,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,4,David,24000
+2025-01-29,East,Kano,Corporate,Online,Printer P50,Electronics,150000,8,Grace,120000
+2025-01-02,South,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,8,Aisha,200000
+2025-03-17,North,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,4,Grace,24000
+2025-01-29,South,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,2,Aisha,336000
+2025-03-31,South,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,6,Aisha,24000
+2025-03-25,North,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,Peter,176000
+2025-02-02,South,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,4,Peter,240000
+2025-04-17,South,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,8,Chidinma,336000
+2025-03-03,East,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,4,Peter,256000
+2025-02-10,West,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,8,David,200000
+2025-02-21,East,Lagos,Retail,Store,Sofa Classic,Furniture,320000,7,Grace,256000
+2025-02-26,West,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,6,David,240000
+2025-01-28,North,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,Chidinma,144000
+2025-01-07,West,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,6,Peter,200000
+2025-02-09,West,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,7,Peter,200000
+2025-03-07,East,Lagos,Retail,Store,Laptop A13,Electronics,420000,2,Chidinma,336000
+2025-04-09,South,Lagos,Corporate,Online,Printer P50,Electronics,150000,2,David,120000
+2025-03-31,North,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,8,Grace,176000
+2025-02-14,East,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,2,Musa,120000
+2025-03-22,East,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,1,Peter,24000
+2025-04-25,East,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,5,Chidinma,144000
+2025-04-26,West,Kano,Corporate,Store,Printer P50,Electronics,150000,9,Aisha,120000
+2025-02-26,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,5,Aisha,120000
+2025-04-02,South,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,4,Grace,176000
+2025-01-29,West,Kano,Retail,Online,Sofa Classic,Furniture,320000,4,Chidinma,256000
+2025-03-05,West,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,8,Chidinma,256000
+2025-04-23,North,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,9,Chidinma,48000
+2025-03-05,East,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,10,Chidinma,240000
+2025-03-22,North,Lagos,Corporate,Online,Printer P50,Electronics,150000,6,Peter,120000
+2025-05-01,South,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Aisha,144000
+2025-02-28,East,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,7,Grace,48000
+2025-03-01,East,Lagos,Retail,Store,Printer P50,Electronics,150000,9,Chidinma,120000
+2025-04-08,East,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,Peter,144000
+2025-01-06,West,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,Aisha,144000
+2025-04-07,West,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,6,Aisha,48000
+2025-02-12,East,Kano,Corporate,Store,Sofa Classic,Furniture,320000,8,Peter,256000
+2025-01-02,East,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,6,Aisha,144000
+2025-02-25,South,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,8,David,48000
+2025-04-13,East,Lagos,Corporate,Online,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-01-30,South,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,David,176000
+2025-03-28,West,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,6,Chidinma,48000
+2025-04-03,West,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,8,Grace,48000
+2025-01-01,West,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,2,Chidinma,24000
+2025-03-01,East,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,3,Peter,240000
+2025-01-17,North,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,3,David,200000
+2025-04-21,North,Lagos,Corporate,Store,Laptop A13,Electronics,420000,1,David,336000
+2025-04-06,South,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,1,Peter,24000
+2025-01-07,South,Kano,Retail,Online,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-04-01,North,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,10,Aisha,200000
+2025-04-21,North,Kano,Corporate,Store,Printer P50,Electronics,150000,10,David,120000
+2025-03-23,East,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,8,Chidinma,200000
+2025-04-26,North,Kano,Retail,Store,Smartphone Z10,Electronics,250000,9,Grace,200000
+2025-04-15,North,Abuja,Retail,Store,Laptop A13,Electronics,420000,10,Musa,336000
+2025-02-24,West,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,4,David,68000
+2025-01-30,East,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,Grace,144000
+2025-01-05,South,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,Peter,144000
+2025-02-22,East,Kano,Corporate,Store,Printer P50,Electronics,150000,10,Musa,120000
+2025-04-01,East,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,1,Musa,240000
+2025-04-03,South,Abuja,Retail,Online,Printer P50,Electronics,150000,8,Chidinma,120000
+2025-03-24,West,Abuja,Retail,Store,Printer P50,Electronics,150000,3,Peter,120000
+2025-03-21,North,Abuja,Retail,Store,Sofa Classic,Furniture,320000,3,Chidinma,256000
+2025-04-16,South,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,Chidinma,144000
+2025-02-01,South,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,David,144000
+2025-02-15,West,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,7,Aisha,48000
+2025-04-04,East,Kano,Corporate,Store,Sofa Classic,Furniture,320000,7,David,256000
+2025-04-22,South,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,9,David,68000
+2025-04-28,West,Lagos,Retail,Online,Sofa Classic,Furniture,320000,3,Aisha,256000
+2025-01-01,South,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,4,Aisha,176000
+2025-02-20,East,Kano,Corporate,Online,Sofa Classic,Furniture,320000,7,Peter,256000
+2025-04-22,East,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,1,Musa,200000
+2025-01-20,East,Kano,Retail,Store,Blender B10,Home Appliances,30000,5,Musa,24000
+2025-03-10,South,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,David,176000
+2025-03-18,North,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,4,Peter,200000
+2025-01-08,North,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,Chidinma,144000
+2025-04-20,South,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,10,David,48000
+2025-02-05,East,Kano,Retail,Online,Sofa Classic,Furniture,320000,10,Chidinma,256000
+2025-01-21,East,Kano,Retail,Store,Printer P50,Electronics,150000,4,Musa,120000
+2025-02-15,West,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,4,Chidinma,256000
+2025-02-16,South,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,7,Aisha,240000
+2025-02-20,North,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,10,Chidinma,120000
+2025-03-24,South,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,Chidinma,176000
+2025-02-13,West,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,4,Musa,68000
+2025-01-15,South,Kano,Corporate,Online,Sofa Classic,Furniture,320000,1,Grace,256000
+2025-01-20,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,1,Peter,336000
+2025-04-29,South,Kano,Corporate,Store,Laptop A13,Electronics,420000,6,David,336000
+2025-02-01,North,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,8,Aisha,48000
+2025-01-27,East,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,Chidinma,176000
+2025-04-04,South,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,9,Peter,256000
+2025-02-08,West,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,2,Aisha,240000
+2025-04-26,South,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,4,Aisha,200000
+2025-02-13,North,Lagos,Retail,Online,Blender B10,Home Appliances,30000,4,Aisha,24000
+2025-02-02,West,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,4,Chidinma,176000
+2025-03-08,North,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,2,Aisha,240000
+2025-03-19,South,Lagos,Retail,Online,Sofa Classic,Furniture,320000,7,David,256000
+2025-03-29,East,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,5,Musa,48000
+2025-02-09,South,Kano,Retail,Online,Office Chair Pro,Furniture,85000,7,Peter,68000
+2025-03-19,West,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,6,Grace,240000
+2025-03-28,East,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,5,Musa,144000
+2025-04-02,East,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,1,Aisha,240000
+2025-03-26,West,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,7,David,48000
+2025-01-05,South,Kano,Retail,Online,Blender B10,Home Appliances,30000,8,Musa,24000
+2025-04-01,West,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,Peter,176000
+2025-04-06,South,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,Peter,176000
+2025-03-04,North,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,David,144000
+2025-03-09,West,Kano,Retail,Store,Microwave M20,Home Appliances,60000,8,Aisha,48000
+2025-01-01,North,Lagos,Retail,Online,Blender B10,Home Appliances,30000,2,Peter,24000
+2025-01-26,North,Lagos,Corporate,Online,Printer P50,Electronics,150000,5,Peter,120000
+2025-03-20,West,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,5,Peter,200000
+2025-02-27,South,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,4,David,68000
+2025-03-10,West,Kano,Retail,Store,Desktop PC D21,Electronics,300000,10,David,240000
+2025-03-11,South,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,8,Grace,200000
+2025-04-22,West,Lagos,Retail,Store,Sofa Classic,Furniture,320000,4,Grace,256000
+2025-04-01,North,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,10,Musa,24000
+2025-04-16,North,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,4,Aisha,200000
+2025-01-23,East,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,5,Musa,256000
+2025-03-17,East,Lagos,Retail,Store,Sofa Classic,Furniture,320000,9,Grace,256000
+2025-03-07,East,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,Aisha,144000
+2025-04-18,South,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,7,Musa,24000
+2025-04-29,North,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,Peter,176000
+2025-02-26,North,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,Grace,144000
+2025-03-13,South,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,2,Musa,144000
+2025-02-12,West,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,Aisha,176000
+2025-04-03,West,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,10,Aisha,48000
+2025-02-19,North,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,2,Grace,24000
+2025-01-11,East,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,3,David,240000
+2025-03-13,South,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,Chidinma,24000
+2025-03-03,North,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,7,Chidinma,240000
+2025-04-05,East,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,2,Peter,24000
+2025-03-07,East,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Musa,176000
+2025-04-20,West,Kano,Retail,Online,Microwave M20,Home Appliances,60000,1,Chidinma,48000
+2025-03-01,South,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,9,Aisha,68000
+2025-02-26,East,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-01-31,East,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,Chidinma,144000
+2025-03-30,West,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,Grace,144000
+2025-01-07,North,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,8,Musa,48000
+2025-01-01,North,Abuja,Retail,Online,Sofa Classic,Furniture,320000,4,Peter,256000
+2025-04-02,East,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,David,144000
+2025-03-20,East,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,9,Musa,120000
+2025-04-17,East,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,4,Chidinma,68000
+2025-04-03,South,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,4,Chidinma,176000
+2025-02-18,North,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-01-11,South,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,4,Chidinma,68000
+2025-02-04,North,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,2,Musa,240000
+2025-03-22,West,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,2,Aisha,68000
+2025-04-25,West,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,5,Chidinma,336000
+2025-04-07,South,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,8,David,240000
+2025-04-03,West,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,1,Chidinma,48000
+2025-02-27,West,Kano,Retail,Online,Smartphone Z10,Electronics,250000,8,Chidinma,200000
+2025-04-14,West,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,4,Chidinma,240000
+2025-02-01,East,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,10,Aisha,240000
+2025-01-07,South,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,2,Grace,240000
+2025-02-28,West,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,2,Peter,68000
+2025-04-06,North,Lagos,Retail,Online,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-02-24,West,Kano,Retail,Store,Printer P50,Electronics,150000,4,Chidinma,120000
+2025-01-18,West,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,8,Musa,48000
+2025-03-30,North,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-04-29,North,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,8,David,240000
+2025-04-28,North,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,5,Aisha,256000
+2025-01-07,West,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,3,David,24000
+2025-05-01,South,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,1,David,24000
+2025-03-13,South,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,David,120000
+2025-04-04,South,Kano,Retail,Online,Blender B10,Home Appliances,30000,5,Peter,24000
+2025-02-06,North,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,David,144000
+2025-01-04,South,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,Grace,144000
+2025-02-11,East,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,8,Chidinma,240000
+2025-02-26,East,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,8,David,68000
+2025-02-18,North,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,Chidinma,144000
+2025-04-10,South,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,6,David,336000
+2025-04-17,West,Abuja,Retail,Store,Laptop A13,Electronics,420000,4,Aisha,336000
+2025-03-19,East,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,David,144000
+2025-03-15,South,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,3,David,48000
+2025-01-17,East,Abuja,Retail,Store,Printer P50,Electronics,150000,1,Musa,120000
+2025-01-29,South,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,4,David,336000
+2025-04-13,North,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,6,Musa,200000
+2025-03-04,South,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,1,Peter,256000
+2025-01-23,North,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,10,Grace,176000
+2025-04-15,North,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,5,David,176000
+2025-01-09,South,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Grace,176000
+2025-03-25,East,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,9,Musa,176000
+2025-03-06,North,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,7,Grace,240000
+2025-03-07,West,Abuja,Retail,Online,Laptop A13,Electronics,420000,1,Musa,336000
+2025-02-04,West,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,Musa,144000
+2025-04-06,North,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,3,Musa,200000
+2025-04-14,North,Abuja,Retail,Online,Sofa Classic,Furniture,320000,2,Chidinma,256000
+2025-04-26,East,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,3,David,48000
+2025-04-03,South,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,9,David,24000
+2025-02-06,East,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,David,144000
+2025-04-06,South,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,8,Aisha,48000
+2025-01-26,South,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,8,Grace,48000
+2025-04-16,South,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,3,Peter,200000
+2025-01-29,North,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,6,Aisha,68000
+2025-01-15,East,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,Musa,176000
+2025-01-03,North,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,4,Musa,200000
+2025-03-17,South,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,3,Chidinma,200000
+2025-01-24,South,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,10,Chidinma,24000
+2025-05-01,North,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,4,Grace,240000
+2025-04-16,South,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,2,Peter,256000
+2025-01-06,South,Abuja,Corporate,Store,Laptop A13,Electronics,420000,8,Grace,336000
+2025-02-24,South,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,2,David,24000
+2025-02-03,North,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,Chidinma,120000
+2025-03-04,South,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,6,David,176000
+2025-04-06,West,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,7,Peter,48000
+2025-02-02,South,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,7,Peter,68000
+2025-01-14,West,Lagos,Retail,Online,Laptop A13,Electronics,420000,6,Chidinma,336000
+2025-04-15,West,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,3,Musa,240000
+2025-01-25,North,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,10,Chidinma,176000
+2025-02-27,North,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-03-10,North,Lagos,Retail,Store,Sofa Classic,Furniture,320000,4,Grace,256000
+2025-01-27,South,Abuja,Retail,Store,Printer P50,Electronics,150000,6,Grace,120000
+2025-01-27,West,Lagos,Retail,Store,Sofa Classic,Furniture,320000,2,Grace,256000
+2025-02-23,North,Kano,Retail,Online,Sofa Classic,Furniture,320000,10,Grace,256000
+2025-02-14,South,Lagos,Corporate,Online,Laptop A13,Electronics,420000,8,Chidinma,336000
+2025-03-01,North,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,5,Aisha,120000
+2025-04-13,West,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,1,Aisha,68000
+2025-04-21,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,2,Grace,336000
+2025-01-23,East,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,Grace,144000
+2025-02-15,East,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,7,Chidinma,176000
+2025-04-27,East,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,5,David,176000
+2025-03-17,North,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,6,Musa,240000
+2025-04-24,West,Kano,Retail,Store,Smartphone Z10,Electronics,250000,4,Musa,200000
+2025-04-06,North,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,5,David,256000
+2025-03-25,North,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,10,Grace,240000
+2025-03-13,North,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,5,Aisha,48000
+2025-04-02,North,Kano,Retail,Online,Laptop A13,Electronics,420000,8,Peter,336000
+2025-01-23,West,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,1,David,240000
+2025-03-13,West,Kano,Corporate,Store,Laptop A13,Electronics,420000,2,Aisha,336000
+2025-01-25,South,Lagos,Corporate,Online,Laptop A13,Electronics,420000,7,Peter,336000
+2025-01-31,West,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Musa,144000
+2025-01-22,West,Kano,Retail,Online,Microwave M20,Home Appliances,60000,7,Musa,48000
+2025-04-18,East,Lagos,Corporate,Online,Laptop A13,Electronics,420000,7,Musa,336000
+2025-02-18,East,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,Grace,144000
+2025-03-27,East,Kano,Corporate,Store,Laptop A13,Electronics,420000,9,Grace,336000
+2025-02-10,East,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,7,Peter,240000
+2025-04-15,West,Abuja,Retail,Store,Printer P50,Electronics,150000,3,David,120000
+2025-01-21,West,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,10,Grace,240000
+2025-02-19,East,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,8,Grace,336000
+2025-03-10,West,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,Musa,176000
+2025-02-23,West,Abuja,Retail,Online,Printer P50,Electronics,150000,4,Chidinma,120000
+2025-01-29,West,Lagos,Retail,Online,Blender B10,Home Appliances,30000,8,Peter,24000
+2025-02-08,West,Kano,Corporate,Store,Laptop A13,Electronics,420000,3,Aisha,336000
+2025-01-21,West,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,4,Grace,240000
+2025-03-20,West,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,6,David,200000
+2025-04-24,West,Kano,Corporate,Store,Sofa Classic,Furniture,320000,6,Peter,256000
+2025-01-11,West,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,Peter,144000
+2025-02-28,West,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,1,Musa,120000
+2025-01-02,West,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,3,Grace,48000
+2025-03-05,East,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,10,David,68000
+2025-04-02,West,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,Aisha,120000
+2025-02-06,South,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,9,Aisha,336000
+2025-04-11,South,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,1,Peter,176000
+2025-02-07,East,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,4,David,68000
+2025-04-03,West,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,6,Aisha,336000
+2025-04-05,North,Abuja,Corporate,Online,Laptop A13,Electronics,420000,6,Musa,336000
+2025-01-02,East,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,10,Peter,240000
+2025-01-07,South,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,4,Musa,176000
+2025-03-19,West,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Aisha,144000
+2025-04-10,West,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,3,Chidinma,200000
+2025-01-05,North,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,7,Chidinma,240000
+2025-01-05,North,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,7,Grace,240000
+2025-04-12,North,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,1,Aisha,200000
+2025-02-23,West,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,3,Peter,240000
+2025-04-01,South,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,10,Musa,336000
+2025-04-21,North,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,9,Peter,48000
+2025-04-30,West,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,4,Musa,200000
+2025-04-29,East,Kano,Retail,Online,Smartphone Z10,Electronics,250000,3,Aisha,200000
+2025-02-16,West,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,3,Chidinma,48000
+2025-02-03,West,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,1,David,256000
+2025-02-01,North,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,8,David,48000
+2025-02-14,East,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,5,Peter,200000
+2025-03-04,West,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,2,Grace,256000
+2025-02-24,South,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,David,176000
+2025-03-16,West,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,3,Chidinma,200000
+2025-03-23,West,Kano,Retail,Store,Office Chair Pro,Furniture,85000,10,Musa,68000
+2025-02-07,South,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,6,Peter,336000
+2025-04-10,North,Lagos,Retail,Store,Printer P50,Electronics,150000,5,David,120000
+2025-04-12,North,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,3,Aisha,256000
+2025-04-12,North,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,1,Peter,24000
+2025-02-03,West,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,Peter,144000
+2025-01-11,South,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,Chidinma,144000
+2025-02-23,East,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,3,David,336000
+2025-04-09,East,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,6,Aisha,176000
+2025-01-26,South,Kano,Retail,Online,Microwave M20,Home Appliances,60000,10,Peter,48000
+2025-03-01,South,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Musa,144000
+2025-04-30,East,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,David,176000
+2025-03-13,South,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,4,Peter,200000
+2025-03-28,South,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,2,Grace,24000
+2025-04-27,West,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,Musa,144000
+2025-01-07,South,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,Grace,144000
+2025-03-01,West,Lagos,Corporate,Store,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-04-10,North,Kano,Corporate,Online,Blender B10,Home Appliances,30000,10,Musa,24000
+2025-02-02,East,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,7,Grace,68000
+2025-04-17,West,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,5,Chidinma,24000
+2025-03-01,North,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,5,Grace,240000
+2025-01-27,West,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,8,Musa,68000
+2025-04-11,South,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,David,176000
+2025-02-08,North,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,8,David,68000
+2025-02-22,East,Abuja,Corporate,Online,Printer P50,Electronics,150000,5,Peter,120000
+2025-04-16,East,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,10,David,48000
+2025-04-23,West,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,1,Chidinma,176000
+2025-02-08,North,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,3,Musa,24000
+2025-03-17,South,Lagos,Corporate,Online,Laptop A13,Electronics,420000,1,Peter,336000
+2025-03-28,East,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,5,Grace,24000
+2025-03-07,East,Abuja,Corporate,Online,Laptop A13,Electronics,420000,7,Chidinma,336000
+2025-03-19,South,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Aisha,144000
+2025-04-14,West,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,Musa,176000
+2025-01-01,East,Abuja,Retail,Online,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-01-10,East,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,Grace,144000
+2025-01-31,West,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,Musa,176000
+2025-02-03,North,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,2,Peter,200000
+2025-04-03,East,Kano,Corporate,Online,Laptop A13,Electronics,420000,3,Peter,336000
+2025-01-07,East,Lagos,Corporate,Online,Laptop A13,Electronics,420000,8,Musa,336000
+2025-04-16,East,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,7,Chidinma,336000
+2025-04-25,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,6,Musa,256000
+2025-02-26,North,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,3,Musa,48000
+2025-02-01,West,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,8,Chidinma,68000
+2025-01-20,West,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,Peter,144000
+2025-02-24,West,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,Peter,176000
+2025-01-10,South,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,Peter,144000
+2025-03-04,West,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,7,Chidinma,48000
+2025-04-16,South,Kano,Corporate,Store,Printer P50,Electronics,150000,7,Peter,120000
+2025-04-13,East,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,4,Aisha,24000
+2025-01-11,West,Abuja,Corporate,Store,Laptop A13,Electronics,420000,1,Aisha,336000
+2025-02-11,West,Kano,Corporate,Store,Laptop A13,Electronics,420000,4,Peter,336000
+2025-02-01,North,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-04-22,West,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,5,Musa,256000
+2025-02-20,East,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,4,Musa,68000
+2025-02-28,West,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,7,Grace,336000
+2025-01-13,West,Kano,Corporate,Online,Blender B10,Home Appliances,30000,10,Musa,24000
+2025-03-24,West,Kano,Corporate,Online,Printer P50,Electronics,150000,10,Musa,120000
+2025-01-31,South,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,4,Aisha,200000
+2025-04-05,East,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,6,Aisha,176000
+2025-01-16,North,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,10,David,120000
+2025-02-12,East,Kano,Retail,Online,Printer P50,Electronics,150000,2,Musa,120000
+2025-01-03,West,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,4,Peter,200000
+2025-04-04,East,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,9,David,120000
+2025-04-20,North,Kano,Retail,Store,Laptop A13,Electronics,420000,7,Peter,336000
+2025-04-22,East,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-03-22,South,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,1,Peter,68000
+2025-02-25,South,Kano,Retail,Store,Laptop A13,Electronics,420000,9,Chidinma,336000
+2025-03-14,North,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,2,Grace,176000
+2025-03-10,West,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-02-03,North,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,9,Chidinma,24000
+2025-02-18,North,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,3,Aisha,256000
+2025-01-17,North,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,6,Peter,24000
+2025-02-12,North,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,7,Musa,48000
+2025-01-26,South,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,Peter,144000
+2025-03-08,East,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,5,Chidinma,24000
+2025-01-08,West,Lagos,Corporate,Store,Printer P50,Electronics,150000,2,Aisha,120000
+2025-04-28,South,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,9,Grace,24000
+2025-02-13,South,Kano,Corporate,Online,Printer P50,Electronics,150000,5,Peter,120000
+2025-01-25,South,Kano,Retail,Store,Microwave M20,Home Appliances,60000,8,Grace,48000
+2025-04-13,East,Lagos,Retail,Online,Printer P50,Electronics,150000,8,Aisha,120000
+2025-03-13,East,Kano,Retail,Store,Office Chair Pro,Furniture,85000,3,Grace,68000
+2025-03-18,South,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,Aisha,144000
+2025-01-30,North,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,7,David,336000
+2025-01-07,East,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,8,David,48000
+2025-03-28,South,Kano,Retail,Store,Desktop PC D21,Electronics,300000,1,Peter,240000
+2025-04-12,East,Kano,Retail,Online,Blender B10,Home Appliances,30000,6,Peter,24000
+2025-01-12,North,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,9,Aisha,200000
+2025-02-06,East,Kano,Corporate,Store,Laptop A13,Electronics,420000,9,Peter,336000
+2025-03-23,East,Kano,Corporate,Store,Printer P50,Electronics,150000,9,Peter,120000
+2025-02-15,East,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,5,Grace,240000
+2025-03-26,North,Abuja,Retail,Online,Blender B10,Home Appliances,30000,4,Peter,24000
+2025-03-09,West,Abuja,Retail,Store,Laptop A13,Electronics,420000,7,Grace,336000
+2025-02-15,East,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,6,Peter,256000
+2025-04-10,South,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,2,Grace,68000
+2025-01-06,West,Lagos,Retail,Online,Printer P50,Electronics,150000,1,Grace,120000
+2025-02-11,West,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,2,Aisha,68000
+2025-04-25,West,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,1,Musa,68000
+2025-01-17,North,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,Grace,144000
+2025-04-15,East,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,8,David,336000
+2025-03-06,West,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,David,144000
+2025-01-11,North,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,5,Grace,240000
+2025-01-05,West,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,4,Aisha,48000
+2025-01-10,East,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,4,Aisha,200000
+2025-03-14,North,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,6,Grace,176000
+2025-04-15,East,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,7,Musa,240000
+2025-03-30,South,Lagos,Retail,Online,Laptop A13,Electronics,420000,10,Musa,336000
+2025-02-21,West,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,7,Musa,24000
+2025-04-11,North,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-01-20,South,Abuja,Retail,Store,Sofa Classic,Furniture,320000,9,David,256000
+2025-01-22,East,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,Musa,144000
+2025-04-26,North,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,5,Peter,24000
+2025-02-20,South,Kano,Retail,Store,Sofa Classic,Furniture,320000,8,Musa,256000
+2025-03-31,North,Lagos,Retail,Store,Sofa Classic,Furniture,320000,8,David,256000
+2025-01-15,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,4,Musa,24000
+2025-04-29,West,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,3,Peter,144000
+2025-05-01,North,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,9,Peter,144000
+2025-02-15,North,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,Musa,144000
+2025-02-16,West,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,6,David,176000
+2025-04-02,East,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,3,David,240000
+2025-02-17,South,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,1,Peter,256000
+2025-03-21,South,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,6,Peter,120000
+2025-02-08,East,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,David,176000
+2025-02-04,West,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,1,Musa,176000
+2025-02-05,East,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-03-08,West,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,10,Peter,200000
+2025-02-25,North,Abuja,Retail,Store,Sofa Classic,Furniture,320000,1,Aisha,256000
+2025-02-11,West,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,8,David,48000
+2025-04-07,North,Abuja,Retail,Store,Laptop A13,Electronics,420000,2,Aisha,336000
+2025-03-27,North,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,2,Chidinma,200000
+2025-03-30,West,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,6,Grace,176000
+2025-04-29,North,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,1,Peter,48000
+2025-02-01,West,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,9,Grace,68000
+2025-01-25,South,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,9,Aisha,48000
+2025-04-13,East,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,7,David,68000
+2025-02-08,South,Abuja,Retail,Online,Sofa Classic,Furniture,320000,4,Musa,256000
+2025-04-15,South,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,4,Peter,200000
+2025-03-10,East,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,8,David,48000
+2025-04-30,West,Kano,Corporate,Online,Laptop A13,Electronics,420000,2,Grace,336000
+2025-01-04,East,Abuja,Corporate,Store,Printer P50,Electronics,150000,1,Peter,120000
+2025-04-27,South,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,8,Aisha,200000
+2025-04-24,West,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,10,Grace,240000
+2025-03-11,East,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,3,David,48000
+2025-01-31,West,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,1,David,68000
+2025-02-16,East,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,Chidinma,144000
+2025-03-10,East,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,6,Musa,200000
+2025-01-06,West,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-04-01,West,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,1,Musa,24000
+2025-01-07,North,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,3,Chidinma,200000
+2025-03-26,East,Kano,Retail,Online,Sofa Classic,Furniture,320000,10,Chidinma,256000
+2025-04-07,West,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,7,David,200000
+2025-02-18,North,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,2,Musa,256000
+2025-04-30,North,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,Peter,176000
+2025-02-23,North,Abuja,Corporate,Store,Laptop A13,Electronics,420000,3,Peter,336000
+2025-02-09,North,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,Musa,176000
+2025-04-13,South,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,5,David,256000
+2025-02-13,East,Kano,Retail,Store,Office Chair Pro,Furniture,85000,8,Chidinma,68000
+2025-02-13,East,Abuja,Corporate,Store,Printer P50,Electronics,150000,9,Grace,120000
+2025-02-12,West,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,4,Peter,200000
+2025-02-08,North,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,4,Peter,176000
+2025-04-02,North,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-02-02,East,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,3,Peter,200000
+2025-01-12,North,Kano,Corporate,Online,Printer P50,Electronics,150000,4,Peter,120000
+2025-02-15,North,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-01-17,West,Kano,Corporate,Store,Printer P50,Electronics,150000,4,Musa,120000
+2025-02-13,North,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,3,David,120000
+2025-01-29,North,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,3,David,24000
+2025-04-25,North,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,5,Grace,256000
+2025-04-25,East,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,3,Chidinma,200000
+2025-02-26,East,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,10,Grace,48000
+2025-02-26,North,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,3,Aisha,48000
+2025-02-20,East,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,9,Peter,68000
+2025-03-21,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,4,Peter,336000
+2025-01-01,North,Kano,Corporate,Online,Printer P50,Electronics,150000,6,Aisha,120000
+2025-04-22,North,Kano,Corporate,Online,Sofa Classic,Furniture,320000,3,Peter,256000
+2025-03-31,South,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,2,Chidinma,240000
+2025-01-26,East,Kano,Corporate,Online,Printer P50,Electronics,150000,10,Aisha,120000
+2025-02-17,East,Abuja,Retail,Store,Laptop A13,Electronics,420000,10,Musa,336000
+2025-03-08,North,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,Aisha,144000
+2025-01-29,East,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,7,Musa,200000
+2025-04-17,West,Lagos,Retail,Store,Sofa Classic,Furniture,320000,4,David,256000
+2025-01-08,East,Lagos,Retail,Online,Blender B10,Home Appliances,30000,2,Chidinma,24000
+2025-01-20,North,Abuja,Retail,Online,Printer P50,Electronics,150000,4,Chidinma,120000
+2025-04-14,North,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,4,Musa,48000
+2025-01-04,East,Abuja,Retail,Store,Sofa Classic,Furniture,320000,4,Aisha,256000
+2025-04-17,North,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,2,David,48000
+2025-04-25,West,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,7,Peter,24000
+2025-01-22,East,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,6,Peter,200000
+2025-03-01,North,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,9,Chidinma,176000
+2025-01-31,East,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,2,David,240000
+2025-03-14,West,Kano,Retail,Store,Laptop A13,Electronics,420000,2,David,336000
+2025-03-03,South,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,3,Peter,176000
+2025-03-26,South,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,10,Peter,176000
+2025-02-03,South,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,8,Chidinma,200000
+2025-02-20,East,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,6,Musa,48000
+2025-02-24,East,Lagos,Retail,Online,Sofa Classic,Furniture,320000,4,Grace,256000
+2025-01-20,East,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,Grace,144000
+2025-01-25,East,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,7,Chidinma,48000
+2025-01-25,South,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,9,David,144000
+2025-01-28,North,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,6,David,24000
+2025-01-13,South,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,10,Aisha,240000
+2025-01-13,South,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,2,Musa,24000
+2025-03-07,East,Kano,Corporate,Online,Blender B10,Home Appliances,30000,8,Grace,24000
+2025-01-02,South,Kano,Corporate,Store,Blender B10,Home Appliances,30000,9,Musa,24000
+2025-03-28,North,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,2,Grace,176000
+2025-02-01,South,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,3,Grace,176000
+2025-04-25,South,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,3,David,68000
+2025-02-05,West,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,3,Peter,48000
+2025-04-25,West,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,Grace,176000
+2025-03-12,West,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,1,Chidinma,24000
+2025-02-04,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,1,Grace,336000
+2025-02-22,West,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,10,David,176000
+2025-04-10,South,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,10,Grace,144000
+2025-04-15,South,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,3,Aisha,336000
+2025-01-03,West,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,4,Musa,68000
+2025-04-09,South,Kano,Corporate,Online,Sofa Classic,Furniture,320000,4,Peter,256000
+2025-01-08,West,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,1,Aisha,176000
+2025-04-01,South,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,1,David,68000
+2025-01-10,West,Abuja,Retail,Online,Printer P50,Electronics,150000,8,Grace,120000
+2025-01-11,North,Lagos,Corporate,Online,Printer P50,Electronics,150000,9,Chidinma,120000
+2025-04-26,West,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,3,Chidinma,240000
+2025-04-03,North,Abuja,Corporate,Online,Printer P50,Electronics,150000,10,Peter,120000
+2025-04-25,West,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,2,Peter,68000
+2025-01-09,East,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,9,David,336000
+2025-01-09,West,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,2,Grace,240000
+2025-04-05,East,Kano,Corporate,Online,Printer P50,Electronics,150000,4,Aisha,120000
+2025-04-11,East,Lagos,Retail,Online,Laptop A13,Electronics,420000,9,David,336000
+2025-01-30,North,Kano,Retail,Store,Smartphone Z10,Electronics,250000,5,David,200000
+2025-01-02,North,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,10,Aisha,24000
+2025-05-01,South,Kano,Retail,Store,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-02-27,South,Abuja,Retail,Online,Sofa Classic,Furniture,320000,8,Aisha,256000
+2025-02-10,North,Lagos,Corporate,Online,Laptop A13,Electronics,420000,8,Aisha,336000
+2025-01-26,South,Kano,Corporate,Online,Printer P50,Electronics,150000,1,Aisha,120000
+2025-03-12,South,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,7,Peter,48000
+2025-02-01,South,Lagos,Retail,Store,Laptop A13,Electronics,420000,9,Aisha,336000
+2025-03-29,East,Kano,Corporate,Store,Laptop A13,Electronics,420000,6,David,336000
+2025-01-02,East,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,9,Aisha,240000
+2025-02-12,North,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,5,Grace,144000
+2025-01-20,South,Kano,Retail,Store,Printer P50,Electronics,150000,5,Musa,120000
+2025-01-30,East,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,9,Musa,68000
+2025-02-01,West,Abuja,Corporate,Online,Laptop A13,Electronics,420000,5,Grace,336000
+2025-03-20,East,Lagos,Retail,Store,Sofa Classic,Furniture,320000,4,Musa,256000
+2025-03-25,East,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,4,Musa,24000
+2025-01-18,South,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,Aisha,120000
+2025-02-13,West,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,7,Chidinma,176000
+2025-01-14,East,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Peter,144000
+2025-03-11,West,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,7,David,68000
+2025-02-16,East,Lagos,Retail,Online,Blender B10,Home Appliances,30000,3,David,24000
+2025-01-12,North,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,9,Aisha,256000
+2025-02-11,West,Lagos,Retail,Store,Printer P50,Electronics,150000,2,David,120000
+2025-02-15,East,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,Aisha,144000
+2025-02-08,East,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,7,Chidinma,68000
+2025-04-27,West,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Grace,144000
+2025-02-26,North,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,Grace,176000
+2025-02-13,North,Kano,Retail,Online,Desktop PC D21,Electronics,300000,5,Aisha,240000
+2025-04-07,North,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,7,Chidinma,200000
+2025-01-06,West,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,7,Aisha,48000
+2025-03-27,East,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,2,Peter,68000
+2025-01-07,West,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,2,Grace,48000
+2025-01-10,East,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,10,Grace,24000
+2025-03-23,North,Lagos,Corporate,Store,Laptop A13,Electronics,420000,8,David,336000
+2025-04-03,West,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,2,Aisha,48000
+2025-03-14,South,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,8,Grace,68000
+2025-02-13,West,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,7,Peter,336000
+2025-02-23,East,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,6,Grace,240000
+2025-03-20,North,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,2,Aisha,336000
+2025-04-06,North,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,8,Peter,240000
+2025-03-15,North,Kano,Retail,Online,Smartphone Z10,Electronics,250000,5,Peter,200000
+2025-02-21,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,5,Peter,336000
+2025-02-08,East,Kano,Corporate,Online,Laptop A13,Electronics,420000,10,David,336000
+2025-04-20,North,Kano,Retail,Online,Sofa Classic,Furniture,320000,1,Musa,256000
+2025-02-26,South,Abuja,Retail,Online,Sofa Classic,Furniture,320000,1,Peter,256000
+2025-04-30,North,Kano,Corporate,Store,Printer P50,Electronics,150000,1,Grace,120000
+2025-01-06,East,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,Musa,144000
+2025-04-29,North,Kano,Retail,Store,Laptop A13,Electronics,420000,3,David,336000
+2025-03-01,North,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,10,Grace,176000
+2025-03-27,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,9,Peter,336000
+2025-02-21,West,Abuja,Retail,Store,Blender B10,Home Appliances,30000,6,Grace,24000
+2025-04-30,North,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,10,David,200000
+2025-01-08,East,Kano,Retail,Store,Office Chair Pro,Furniture,85000,6,Grace,68000
+2025-03-03,North,Lagos,Corporate,Store,Laptop A13,Electronics,420000,3,Aisha,336000
+2025-02-15,East,Abuja,Retail,Online,Printer P50,Electronics,150000,8,Chidinma,120000
+2025-01-07,West,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,5,Peter,48000
+2025-02-04,West,Kano,Corporate,Store,Sofa Classic,Furniture,320000,9,Aisha,256000
+2025-01-27,West,Lagos,Corporate,Online,Laptop A13,Electronics,420000,5,Chidinma,336000
+2025-01-03,North,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,9,Musa,48000
+2025-02-24,South,Lagos,Retail,Online,Laptop A13,Electronics,420000,1,Grace,336000
+2025-01-10,East,Abuja,Retail,Online,Printer P50,Electronics,150000,9,Aisha,120000
+2025-04-27,South,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,Chidinma,176000
+2025-02-06,North,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,3,Peter,256000
+2025-02-18,South,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,8,Aisha,256000
+2025-01-25,South,Kano,Corporate,Online,Printer P50,Electronics,150000,3,Aisha,120000
+2025-04-01,West,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,9,Chidinma,200000
+2025-02-17,West,Lagos,Retail,Store,Laptop A13,Electronics,420000,7,Musa,336000
+2025-03-13,West,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,10,David,200000
+2025-04-02,East,Kano,Retail,Online,Microwave M20,Home Appliances,60000,4,David,48000
+2025-03-11,North,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,4,Chidinma,200000
+2025-02-10,North,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,3,Grace,240000
+2025-03-29,South,Lagos,Corporate,Online,Laptop A13,Electronics,420000,9,Aisha,336000
+2025-03-08,South,Lagos,Corporate,Online,Laptop A13,Electronics,420000,7,Musa,336000
+2025-02-08,East,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,9,Grace,176000
+2025-02-11,East,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,8,Musa,68000
+2025-01-19,South,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,5,Peter,68000
+2025-04-04,South,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,6,Grace,200000
+2025-04-21,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,8,Grace,24000
+2025-02-21,North,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,6,Aisha,200000
+2025-03-28,South,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,10,Peter,256000
+2025-03-18,East,Abuja,Retail,Store,Blender B10,Home Appliances,30000,4,Peter,24000
+2025-02-08,South,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,10,Chidinma,68000
+2025-04-15,North,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,6,Musa,200000
+2025-01-12,South,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,10,David,48000
+2025-02-05,East,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,3,David,240000
+2025-01-17,West,Abuja,Retail,Store,Printer P50,Electronics,150000,10,Grace,120000
+2025-03-30,South,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,7,Peter,24000
+2025-01-14,East,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,9,Aisha,240000
+2025-01-03,North,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,Musa,176000
+2025-01-25,East,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,9,Chidinma,200000
+2025-01-10,West,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,4,Grace,240000
+2025-01-01,West,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,10,Aisha,48000
+2025-03-17,North,Kano,Corporate,Online,Laptop A13,Electronics,420000,10,Musa,336000
+2025-03-22,West,Kano,Retail,Store,Printer P50,Electronics,150000,1,Grace,120000
+2025-02-19,South,Kano,Retail,Store,Smartphone Z10,Electronics,250000,7,David,200000
+2025-04-12,South,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,9,Musa,240000
+2025-03-22,North,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,2,Aisha,120000
+2025-04-11,West,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,9,David,176000
+2025-03-26,North,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,5,Chidinma,48000
+2025-02-20,West,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,Peter,144000
+2025-02-22,East,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,10,Chidinma,200000
+2025-03-27,East,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,1,Aisha,68000
+2025-03-08,North,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,9,David,200000
+2025-04-09,East,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,2,David,200000
+2025-02-02,South,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,1,Grace,200000
+2025-02-03,West,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,9,Musa,240000
+2025-03-08,West,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,10,David,256000
+2025-01-08,South,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,Aisha,144000
+2025-04-14,South,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,1,Grace,200000
+2025-03-31,South,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,7,Grace,68000
+2025-04-20,West,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,6,Musa,24000
+2025-01-29,West,Lagos,Retail,Store,Blender B10,Home Appliances,30000,6,David,24000
+2025-03-23,West,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,2,Aisha,256000
+2025-01-25,West,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,6,David,48000
+2025-03-12,West,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,10,Grace,176000
+2025-04-10,West,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,6,Grace,48000
+2025-01-01,West,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,7,Aisha,176000
+2025-01-20,East,Lagos,Corporate,Store,Laptop A13,Electronics,420000,8,Aisha,336000
+2025-01-06,East,Lagos,Retail,Store,Laptop A13,Electronics,420000,1,Grace,336000
+2025-03-12,East,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,9,Aisha,200000
+2025-02-28,North,Abuja,Retail,Online,Blender B10,Home Appliances,30000,3,David,24000
+2025-05-01,North,Kano,Retail,Online,Sofa Classic,Furniture,320000,1,Grace,256000
+2025-02-02,West,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,10,Musa,256000
+2025-04-16,North,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,Musa,144000
+2025-03-03,West,Lagos,Retail,Store,Laptop A13,Electronics,420000,5,Aisha,336000
+2025-03-19,North,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,5,David,48000
+2025-02-10,North,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,9,Aisha,48000
+2025-01-19,East,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,10,David,240000
+2025-04-28,South,Abuja,Retail,Store,Laptop A13,Electronics,420000,8,Grace,336000
+2025-03-09,South,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,David,144000
+2025-02-13,East,Kano,Retail,Store,Blender B10,Home Appliances,30000,5,Aisha,24000
+2025-01-28,North,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,3,David,200000
+2025-03-24,East,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,8,Musa,68000
+2025-01-31,South,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,8,Aisha,48000
+2025-03-12,South,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,5,Chidinma,120000
+2025-03-07,North,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,9,Peter,256000
+2025-02-13,North,Abuja,Corporate,Online,Laptop A13,Electronics,420000,7,Chidinma,336000
+2025-04-16,South,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,6,Aisha,48000
+2025-03-10,North,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,7,Grace,120000
+2025-03-15,East,Kano,Retail,Store,Sofa Classic,Furniture,320000,10,Musa,256000
+2025-03-16,East,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,8,David,240000
+2025-01-15,West,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,5,Peter,336000
+2025-04-26,East,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,5,Chidinma,176000
+2025-04-06,West,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,3,David,256000
+2025-04-16,East,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,9,Grace,144000
+2025-03-30,North,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,1,Grace,240000
+2025-04-03,North,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,7,Grace,176000
+2025-03-25,East,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,9,David,68000
+2025-02-07,East,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,4,Musa,68000
+2025-03-30,East,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,8,Musa,48000
+2025-01-24,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,6,Peter,120000
+2025-04-02,East,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,10,Musa,68000
+2025-04-12,West,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,3,Grace,68000
+2025-03-26,West,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,8,Peter,240000
+2025-02-25,West,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,6,Aisha,336000
+2025-01-18,South,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,3,David,200000
+2025-03-11,West,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,8,Musa,200000
+2025-01-08,North,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,3,Musa,68000
+2025-03-27,North,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,7,Musa,24000
+2025-01-16,East,Kano,Retail,Store,Microwave M20,Home Appliances,60000,7,Peter,48000
+2025-01-07,South,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,10,David,176000
+2025-04-02,South,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,5,Grace,200000
+2025-04-09,South,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,7,Grace,68000
+2025-04-30,West,Lagos,Corporate,Online,Printer P50,Electronics,150000,4,Musa,120000
+2025-04-02,South,Abuja,Retail,Online,Laptop A13,Electronics,420000,5,David,336000
+2025-02-15,East,Kano,Retail,Online,Microwave M20,Home Appliances,60000,5,Chidinma,48000
+2025-02-18,South,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,10,David,200000
+2025-04-02,West,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,3,David,48000
+2025-01-12,West,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,Aisha,176000
+2025-04-20,South,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,3,Musa,336000
+2025-03-17,West,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,7,Peter,48000
+2025-03-03,West,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,8,Musa,176000
+2025-05-01,West,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,6,Aisha,200000
+2025-04-24,West,Lagos,Corporate,Online,Printer P50,Electronics,150000,5,Musa,120000
+2025-01-20,North,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,2,Peter,68000
+2025-02-07,South,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,6,David,68000
+2025-01-04,West,Abuja,Corporate,Online,Printer P50,Electronics,150000,5,Peter,120000
+2025-01-10,West,Kano,Corporate,Store,Laptop A13,Electronics,420000,4,Aisha,336000
+2025-04-14,East,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,6,Grace,240000
+2025-03-12,North,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,2,Aisha,48000
+2025-01-20,North,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,5,Peter,68000
+2025-04-23,West,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,3,David,48000
+2025-02-12,North,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,7,Peter,68000
+2025-04-04,North,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,5,Grace,144000
+2025-03-23,East,Lagos,Retail,Online,Laptop A13,Electronics,420000,5,Musa,336000
+2025-04-10,East,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,6,Musa,68000
+2025-03-05,North,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,7,Chidinma,336000
+2025-02-02,South,Abuja,Corporate,Online,Laptop A13,Electronics,420000,9,Grace,336000
+2025-02-18,West,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,3,Aisha,240000
+2025-01-10,East,Kano,Retail,Online,Office Chair Pro,Furniture,85000,9,Aisha,68000
+2025-03-02,South,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,Peter,176000
+2025-04-07,West,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,10,Chidinma,240000
+2025-04-13,West,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,8,Aisha,68000
+2025-02-13,East,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,3,Aisha,24000
+2025-02-11,South,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,8,Peter,68000
+2025-02-09,West,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,3,Peter,144000
+2025-03-25,North,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,7,Aisha,176000
+2025-03-09,North,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,Grace,144000
+2025-03-22,South,Abuja,Retail,Online,Blender B10,Home Appliances,30000,1,Musa,24000
+2025-02-18,East,Lagos,Retail,Online,Blender B10,Home Appliances,30000,8,Peter,24000
+2025-02-15,South,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,Grace,144000
+2025-02-25,South,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,7,David,68000
+2025-03-29,West,Lagos,Retail,Store,Blender B10,Home Appliances,30000,7,Musa,24000
+2025-03-10,North,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,3,Musa,48000
+2025-02-01,North,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,5,Chidinma,68000
+2025-02-15,East,Abuja,Corporate,Online,Laptop A13,Electronics,420000,1,Chidinma,336000
+2025-04-07,South,Kano,Corporate,Store,Blender B10,Home Appliances,30000,5,Chidinma,24000
+2025-04-02,West,Kano,Retail,Online,Smartphone Z10,Electronics,250000,9,Peter,200000
+2025-01-20,North,Lagos,Corporate,Online,Printer P50,Electronics,150000,3,Grace,120000
+2025-01-19,East,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,5,Grace,240000
+2025-01-10,West,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,5,Chidinma,256000
+2025-01-02,West,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,10,Aisha,68000
+2025-01-24,West,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,3,Aisha,144000
+2025-03-02,East,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,3,Grace,24000
+2025-01-03,North,Lagos,Retail,Store,Printer P50,Electronics,150000,5,Aisha,120000
+2025-02-28,North,Kano,Retail,Online,Desktop PC D21,Electronics,300000,4,Peter,240000
+2025-01-29,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-02-26,West,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,10,David,176000
+2025-03-09,South,Kano,Retail,Online,Blender B10,Home Appliances,30000,10,Musa,24000
+2025-04-25,East,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,5,Chidinma,200000
+2025-02-08,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,8,Chidinma,120000
+2025-04-28,South,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,1,Chidinma,68000
+2025-05-01,East,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,2,Aisha,176000
+2025-01-28,South,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,9,Musa,48000
+2025-02-17,North,Kano,Retail,Online,Smartphone Z10,Electronics,250000,9,Peter,200000
+2025-03-25,East,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,7,Aisha,68000
+2025-04-26,South,Kano,Retail,Store,Printer P50,Electronics,150000,7,Peter,120000
+2025-02-26,East,Kano,Corporate,Online,Blender B10,Home Appliances,30000,3,David,24000
+2025-04-23,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,3,Grace,24000
+2025-02-23,North,Abuja,Retail,Online,Blender B10,Home Appliances,30000,4,Aisha,24000
+2025-04-22,South,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,9,David,48000
+2025-01-27,South,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,9,Peter,48000
+2025-03-31,South,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,2,Musa,336000
+2025-03-11,North,Kano,Retail,Store,Sofa Classic,Furniture,320000,1,Grace,256000
+2025-01-02,West,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,5,David,24000
+2025-03-02,West,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,5,Grace,68000
+2025-01-16,West,Kano,Corporate,Online,Laptop A13,Electronics,420000,10,Peter,336000
+2025-03-14,East,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,8,Aisha,200000
+2025-03-25,West,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,10,Peter,200000
+2025-02-11,East,Lagos,Corporate,Store,Printer P50,Electronics,150000,4,Musa,120000
+2025-02-01,East,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,Musa,144000
+2025-04-30,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,6,Musa,24000
+2025-02-08,West,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,5,Peter,200000
+2025-02-02,South,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,2,Grace,256000
+2025-02-10,East,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,10,Peter,240000
+2025-01-24,West,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,7,Aisha,240000
+2025-01-12,North,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,Grace,144000
+2025-02-25,East,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,10,Chidinma,240000
+2025-04-20,West,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,Aisha,144000
+2025-01-27,West,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,7,Musa,24000
+2025-01-28,East,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,6,David,24000
+2025-02-23,East,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,7,Peter,68000
+2025-04-15,East,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,3,Peter,200000
+2025-02-20,West,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,7,Musa,256000
+2025-01-11,South,Kano,Corporate,Store,Blender B10,Home Appliances,30000,7,Peter,24000
+2025-03-14,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,8,Chidinma,256000
+2025-04-25,North,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,7,Aisha,256000
+2025-04-23,East,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,2,Musa,48000
+2025-03-05,West,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-01-27,South,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,2,Musa,48000
+2025-04-06,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,2,Grace,256000
+2025-04-15,East,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,2,Peter,24000
+2025-04-05,North,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,7,Peter,24000
+2025-03-12,North,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,10,Peter,200000
+2025-04-21,East,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,9,Musa,240000
+2025-03-04,South,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,6,Aisha,68000
+2025-01-30,West,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,4,Chidinma,24000
+2025-03-29,South,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,4,Chidinma,240000
+2025-02-09,South,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,Peter,176000
+2025-01-22,East,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,Peter,176000
+2025-01-23,East,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,1,Grace,24000
+2025-02-12,South,Lagos,Retail,Online,Laptop A13,Electronics,420000,9,David,336000
+2025-04-13,West,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,6,David,48000
+2025-01-27,West,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,Musa,144000
+2025-04-16,East,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,1,David,68000
+2025-02-13,West,Kano,Retail,Store,Smartphone Z10,Electronics,250000,2,Chidinma,200000
+2025-01-13,North,Abuja,Retail,Store,Blender B10,Home Appliances,30000,7,Peter,24000
+2025-04-24,West,Lagos,Retail,Store,Laptop A13,Electronics,420000,9,Peter,336000
+2025-01-19,South,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,7,David,48000
+2025-04-01,North,Kano,Retail,Store,Desktop PC D21,Electronics,300000,7,Peter,240000
+2025-03-03,East,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,9,Grace,120000
+2025-02-05,South,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,7,Musa,240000
+2025-01-24,West,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,1,Aisha,200000
+2025-01-11,West,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,6,Musa,200000
+2025-01-18,East,Kano,Corporate,Store,Laptop A13,Electronics,420000,9,Grace,336000
+2025-03-14,South,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,David,144000
+2025-01-11,South,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,5,Grace,68000
+2025-04-30,West,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,Grace,176000
+2025-03-18,East,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,8,Aisha,48000
+2025-01-06,East,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,10,Peter,68000
+2025-02-17,North,Lagos,Retail,Store,Blender B10,Home Appliances,30000,6,Grace,24000
+2025-04-07,West,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,10,David,256000
+2025-04-19,South,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,2,David,48000
+2025-04-11,East,Lagos,Corporate,Store,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-03-09,East,Lagos,Retail,Online,Printer P50,Electronics,150000,5,Musa,120000
+2025-02-18,South,Lagos,Retail,Store,Printer P50,Electronics,150000,9,Peter,120000
+2025-02-16,South,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,5,Aisha,68000
+2025-02-06,North,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,1,David,256000
+2025-03-26,East,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,4,Musa,24000
+2025-04-27,South,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-03-25,West,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,5,Grace,256000
+2025-02-15,West,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,3,Aisha,68000
+2025-02-01,East,Kano,Retail,Store,Sofa Classic,Furniture,320000,10,Chidinma,256000
+2025-02-28,West,Kano,Retail,Online,Laptop A13,Electronics,420000,2,Grace,336000
+2025-03-22,North,Abuja,Retail,Online,Blender B10,Home Appliances,30000,3,Chidinma,24000
+2025-04-10,West,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,1,Grace,24000
+2025-01-09,East,Kano,Retail,Store,Laptop A13,Electronics,420000,10,Grace,336000
+2025-04-15,South,Kano,Retail,Store,Printer P50,Electronics,150000,8,Chidinma,120000
+2025-03-01,North,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Chidinma,176000
+2025-01-28,East,Abuja,Retail,Store,Sofa Classic,Furniture,320000,9,Peter,256000
+2025-03-21,North,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,3,Grace,176000
+2025-02-25,West,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Peter,144000
+2025-02-07,North,Kano,Retail,Store,Smartphone Z10,Electronics,250000,4,Musa,200000
+2025-02-23,North,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,7,Peter,48000
+2025-01-18,North,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,10,Grace,176000
+2025-04-14,South,Kano,Retail,Online,Microwave M20,Home Appliances,60000,9,Grace,48000
+2025-02-16,West,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,2,Musa,48000
+2025-02-15,East,Lagos,Corporate,Online,Printer P50,Electronics,150000,3,Chidinma,120000
+2025-01-11,West,Lagos,Corporate,Online,Printer P50,Electronics,150000,10,Chidinma,120000
+2025-01-19,North,Kano,Corporate,Online,Printer P50,Electronics,150000,9,Peter,120000
+2025-01-13,West,Abuja,Retail,Online,Sofa Classic,Furniture,320000,5,Grace,256000
+2025-01-15,East,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,Chidinma,144000
+2025-01-18,West,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-03-14,West,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,7,Grace,256000
+2025-04-02,South,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,5,Peter,176000
+2025-03-20,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,3,Chidinma,120000
+2025-01-02,West,Lagos,Corporate,Online,Laptop A13,Electronics,420000,8,David,336000
+2025-01-07,East,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,9,David,176000
+2025-05-01,North,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,3,Grace,336000
+2025-01-14,North,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,1,Musa,200000
+2025-01-22,East,Lagos,Retail,Store,Sofa Classic,Furniture,320000,7,Aisha,256000
+2025-01-30,North,Lagos,Retail,Online,Laptop A13,Electronics,420000,2,Grace,336000
+2025-03-25,South,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-02-18,South,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,2,Aisha,120000
+2025-02-11,West,Lagos,Corporate,Store,Laptop A13,Electronics,420000,8,Musa,336000
+2025-04-29,East,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,1,Grace,336000
+2025-03-10,West,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,5,Peter,240000
+2025-02-24,East,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,Aisha,144000
+2025-01-17,West,Abuja,Retail,Store,Printer P50,Electronics,150000,10,David,120000
+2025-02-06,West,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,7,Peter,240000
+2025-02-09,North,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,2,Chidinma,176000
+2025-04-25,East,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,8,Musa,68000
+2025-04-08,West,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,7,Grace,176000
+2025-04-22,North,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,6,Peter,176000
+2025-03-21,North,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,3,Musa,144000
+2025-01-26,South,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,6,Peter,200000
+2025-03-28,West,Kano,Corporate,Store,Printer P50,Electronics,150000,7,Aisha,120000
+2025-04-28,South,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,9,Chidinma,240000
+2025-04-24,West,Kano,Retail,Online,Laptop A13,Electronics,420000,5,Musa,336000
+2025-03-27,South,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,3,Musa,240000
+2025-02-06,East,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,5,Chidinma,200000
+2025-04-27,West,Abuja,Corporate,Store,Printer P50,Electronics,150000,2,Peter,120000
+2025-04-22,East,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,Grace,176000
+2025-03-05,East,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,6,David,240000
+2025-04-08,South,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,Grace,144000
+2025-02-28,East,Abuja,Retail,Online,Printer P50,Electronics,150000,5,Aisha,120000
+2025-04-18,East,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,1,Aisha,68000
+2025-01-11,West,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,1,Peter,24000
+2025-02-22,East,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,1,Aisha,68000
+2025-03-19,South,Lagos,Retail,Store,Blender B10,Home Appliances,30000,2,Aisha,24000
+2025-03-11,East,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-01-19,West,Lagos,Retail,Store,Blender B10,Home Appliances,30000,2,Peter,24000
+2025-01-16,South,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,9,Musa,240000
+2025-01-28,East,Kano,Corporate,Store,Printer P50,Electronics,150000,4,Peter,120000
+2025-04-21,East,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,2,Grace,176000
+2025-04-12,South,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,6,Chidinma,68000
+2025-02-25,West,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,8,Chidinma,240000
+2025-04-26,South,Kano,Corporate,Store,Laptop A13,Electronics,420000,2,Peter,336000
+2025-01-25,East,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,3,David,176000
+2025-04-22,East,Lagos,Retail,Store,Laptop A13,Electronics,420000,10,Chidinma,336000
+2025-04-01,North,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,7,David,240000
+2025-04-01,East,Kano,Retail,Store,Blender B10,Home Appliances,30000,1,Musa,24000
+2025-02-19,East,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,7,Chidinma,24000
+2025-01-13,North,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,8,Peter,68000
+2025-03-26,East,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,10,David,200000
+2025-05-01,West,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,4,Grace,68000
+2025-04-30,West,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,6,Grace,200000
+2025-04-21,East,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,7,Aisha,256000
+2025-03-09,East,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,Chidinma,144000
+2025-04-27,North,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,Grace,176000
+2025-01-29,North,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,David,144000
+2025-01-23,West,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,3,David,144000
+2025-04-13,West,Kano,Retail,Store,Microwave M20,Home Appliances,60000,2,David,48000
+2025-04-01,North,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,1,Aisha,240000
+2025-02-21,South,Kano,Corporate,Store,Laptop A13,Electronics,420000,2,David,336000
+2025-04-11,West,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,9,David,200000
+2025-04-04,South,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,Aisha,144000
+2025-02-07,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,5,Peter,120000
+2025-01-29,West,Abuja,Retail,Store,Sofa Classic,Furniture,320000,4,Grace,256000
+2025-01-09,South,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Peter,144000
+2025-01-21,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,2,Aisha,336000
+2025-02-18,South,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,6,Aisha,120000
+2025-04-21,West,Lagos,Corporate,Store,Printer P50,Electronics,150000,4,David,120000
+2025-03-02,East,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,9,Aisha,200000
+2025-01-10,South,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Grace,176000
+2025-04-09,North,Kano,Retail,Store,Printer P50,Electronics,150000,2,Musa,120000
+2025-03-08,West,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,Musa,176000
+2025-04-19,South,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,6,Aisha,24000
+2025-02-07,East,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,3,Musa,68000
+2025-03-29,East,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-02-03,North,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,10,Musa,200000
+2025-04-18,West,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,Aisha,176000
+2025-03-11,West,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,9,Aisha,240000
+2025-03-06,East,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,3,David,176000
+2025-01-20,East,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,8,Musa,200000
+2025-01-09,South,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,5,Grace,200000
+2025-02-25,North,Abuja,Retail,Store,Laptop A13,Electronics,420000,5,David,336000
+2025-02-13,South,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,7,Grace,48000
+2025-04-19,East,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,Chidinma,24000
+2025-03-03,North,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,2,Musa,200000
+2025-02-26,East,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,8,Grace,48000
+2025-04-08,West,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,7,Aisha,24000
+2025-02-11,South,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,3,Chidinma,24000
+2025-04-03,South,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,Aisha,144000
+2025-03-01,East,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,5,Peter,200000
+2025-03-17,East,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,3,Aisha,68000
+2025-04-07,North,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,1,David,24000
+2025-03-27,South,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,10,Peter,240000
+2025-02-08,South,Lagos,Corporate,Store,Laptop A13,Electronics,420000,5,Aisha,336000
+2025-04-11,East,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,4,Aisha,200000
+2025-03-16,South,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,3,Chidinma,176000
+2025-03-07,North,Abuja,Retail,Store,Sofa Classic,Furniture,320000,2,Musa,256000
+2025-04-04,West,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,9,Grace,256000
+2025-02-27,North,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,10,David,176000
+2025-03-02,South,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,1,Musa,68000
+2025-01-17,South,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,4,Musa,240000
+2025-02-27,South,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,5,David,68000
+2025-04-20,South,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,5,Grace,240000
+2025-01-09,South,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,5,Chidinma,240000
+2025-04-02,West,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,10,Chidinma,24000
+2025-02-14,South,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,6,Peter,176000
+2025-04-07,West,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,9,David,68000
+2025-01-21,East,Abuja,Retail,Online,Laptop A13,Electronics,420000,10,Musa,336000
+2025-02-11,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,1,Peter,336000
+2025-04-27,West,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,6,Musa,48000
+2025-03-14,South,Abuja,Retail,Store,Printer P50,Electronics,150000,1,Musa,120000
+2025-02-21,North,Kano,Retail,Online,Smartphone Z10,Electronics,250000,5,Musa,200000
+2025-04-30,East,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,5,Musa,176000
+2025-04-25,West,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,2,Musa,48000
+2025-03-08,East,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,Grace,120000
+2025-02-27,South,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,3,Aisha,68000
+2025-01-05,North,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,Grace,144000
+2025-03-24,North,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,Aisha,144000
+2025-04-29,North,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,Musa,144000
+2025-01-14,West,Abuja,Retail,Online,Sofa Classic,Furniture,320000,5,Musa,256000
+2025-03-14,East,Lagos,Retail,Store,Laptop A13,Electronics,420000,5,Peter,336000
+2025-03-03,West,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,2,Chidinma,144000
+2025-04-19,South,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,1,David,176000
+2025-04-13,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,4,Aisha,256000
+2025-03-24,South,Kano,Retail,Online,Smartphone Z10,Electronics,250000,4,David,200000
+2025-02-27,South,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,10,Grace,48000
+2025-01-22,East,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,Aisha,144000
+2025-02-04,East,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,5,Peter,240000
+2025-04-23,East,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,7,Aisha,68000
+2025-04-04,East,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,Musa,144000
+2025-01-23,East,Kano,Corporate,Store,Sofa Classic,Furniture,320000,4,David,256000
+2025-03-14,West,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Musa,144000
+2025-01-18,North,Kano,Retail,Online,Blender B10,Home Appliances,30000,3,Aisha,24000
+2025-04-25,North,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,David,176000
+2025-04-22,East,Kano,Retail,Online,Office Chair Pro,Furniture,85000,4,David,68000
+2025-02-15,North,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,6,David,144000
+2025-01-17,North,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Chidinma,176000
+2025-02-01,South,Lagos,Retail,Store,Printer P50,Electronics,150000,1,Grace,120000
+2025-03-02,North,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,Peter,144000
+2025-04-30,North,Kano,Corporate,Store,Laptop A13,Electronics,420000,10,Chidinma,336000
+2025-03-24,West,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,10,Chidinma,200000
+2025-04-15,East,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,3,David,176000
+2025-01-27,North,Abuja,Retail,Online,Blender B10,Home Appliances,30000,4,Peter,24000
+2025-04-08,East,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,Peter,144000
+2025-02-28,West,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,Peter,144000
+2025-02-18,East,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,7,Chidinma,120000
+2025-01-17,East,Abuja,Retail,Online,Blender B10,Home Appliances,30000,4,Musa,24000
+2025-01-30,East,Lagos,Retail,Online,Sofa Classic,Furniture,320000,2,Peter,256000
+2025-04-02,East,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,6,Aisha,256000
+2025-04-15,East,Kano,Corporate,Store,Laptop A13,Electronics,420000,10,David,336000
+2025-04-14,South,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,8,Chidinma,176000
+2025-03-21,East,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,10,Chidinma,240000
+2025-01-20,South,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,3,Musa,240000
+2025-02-11,North,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,5,Aisha,256000
+2025-02-13,East,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,7,Chidinma,68000
+2025-02-14,West,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,2,Aisha,176000
+2025-03-23,North,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,2,Musa,240000
+2025-02-14,South,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,3,David,68000
+2025-01-19,North,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,7,Aisha,176000
+2025-03-27,East,Kano,Corporate,Online,Printer P50,Electronics,150000,3,Musa,120000
+2025-01-25,East,Lagos,Retail,Store,Laptop A13,Electronics,420000,10,Aisha,336000
+2025-02-07,North,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,3,Peter,48000
+2025-01-21,East,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,9,David,240000
+2025-02-10,South,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,7,Chidinma,48000
+2025-03-19,West,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-02-11,North,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,Chidinma,176000
+2025-02-15,East,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,Chidinma,176000
+2025-01-16,West,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,10,David,120000
+2025-04-14,North,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,Grace,24000
+2025-04-14,East,Lagos,Retail,Store,Blender B10,Home Appliances,30000,9,Peter,24000
+2025-04-06,East,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,3,David,120000
+2025-02-11,East,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,6,Musa,48000
+2025-02-14,East,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,1,Musa,200000
+2025-04-25,West,Kano,Retail,Store,Office Chair Pro,Furniture,85000,8,Musa,68000
+2025-02-09,North,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Musa,144000
+2025-03-13,East,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,9,Aisha,176000
+2025-01-04,West,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,3,Musa,200000
+2025-02-27,North,Abuja,Retail,Online,Laptop A13,Electronics,420000,6,Grace,336000
+2025-02-05,East,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,Chidinma,144000
+2025-02-28,South,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,Chidinma,144000
+2025-01-19,East,Kano,Retail,Online,Laptop A13,Electronics,420000,5,Chidinma,336000
+2025-02-11,North,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,Grace,144000
+2025-02-19,East,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,3,Musa,240000
+2025-03-11,West,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,7,Chidinma,176000
+2025-04-30,South,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,2,Chidinma,48000
+2025-02-11,South,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,4,Peter,24000
+2025-01-27,West,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,8,Peter,256000
+2025-04-26,West,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,Musa,144000
+2025-03-01,East,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,6,Musa,256000
+2025-01-20,South,Lagos,Retail,Online,Laptop A13,Electronics,420000,3,Musa,336000
+2025-01-09,North,Abuja,Corporate,Online,Printer P50,Electronics,150000,2,Grace,120000
+2025-04-19,West,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,Peter,144000
+2025-03-14,North,Lagos,Retail,Online,Printer P50,Electronics,150000,4,Peter,120000
+2025-02-26,North,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,8,Musa,48000
+2025-04-24,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,5,Aisha,336000
+2025-03-28,North,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,6,Grace,336000
+2025-01-22,South,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,4,David,240000
+2025-02-03,East,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,Grace,144000
+2025-03-26,North,Abuja,Corporate,Online,Laptop A13,Electronics,420000,5,Aisha,336000
+2025-03-26,West,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,7,Grace,200000
+2025-04-16,South,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,1,Grace,24000
+2025-03-14,South,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,Peter,144000
+2025-04-12,North,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,7,Grace,240000
+2025-04-26,East,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,2,Grace,48000
+2025-03-20,West,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,5,Musa,200000
+2025-03-14,North,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,9,Peter,68000
+2025-04-07,North,Kano,Retail,Online,Laptop A13,Electronics,420000,5,Musa,336000
+2025-04-21,East,Abuja,Retail,Online,Laptop A13,Electronics,420000,7,Musa,336000
+2025-02-20,North,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-02-01,South,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,10,Musa,200000
+2025-04-25,East,Kano,Retail,Online,Printer P50,Electronics,150000,9,Grace,120000
+2025-02-04,West,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,10,Chidinma,240000
+2025-02-04,East,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,2,Peter,240000
+2025-01-16,East,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,Peter,144000
+2025-03-21,West,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,10,Grace,256000
+2025-04-22,North,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,1,Aisha,256000
+2025-03-30,North,Abuja,Retail,Store,Printer P50,Electronics,150000,6,Peter,120000
+2025-04-10,North,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,9,Peter,68000
+2025-02-18,West,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,7,Chidinma,336000
+2025-01-26,East,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,3,Peter,24000
+2025-04-30,East,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,9,Chidinma,24000
+2025-01-19,South,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,1,Aisha,48000
+2025-02-02,North,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,1,Grace,200000
+2025-02-14,North,Lagos,Corporate,Online,Printer P50,Electronics,150000,9,Chidinma,120000
+2025-04-09,West,Kano,Corporate,Online,Printer P50,Electronics,150000,8,David,120000
+2025-02-19,South,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,4,David,48000
+2025-03-03,West,Abuja,Retail,Store,Blender B10,Home Appliances,30000,3,Peter,24000
+2025-04-06,West,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,4,Peter,256000
+2025-03-03,North,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Musa,144000
+2025-04-30,East,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,4,David,68000
+2025-02-22,North,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,10,Chidinma,176000
+2025-01-26,South,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,5,Peter,68000
+2025-01-17,West,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,2,Aisha,240000
+2025-03-06,East,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,Peter,144000
+2025-01-24,South,Abuja,Retail,Online,Printer P50,Electronics,150000,3,Peter,120000
+2025-04-23,South,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,Musa,144000
+2025-02-09,North,Kano,Retail,Online,Printer P50,Electronics,150000,5,David,120000
+2025-02-21,East,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,8,David,48000
+2025-03-12,East,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,5,David,200000
+2025-04-25,East,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,Chidinma,144000
+2025-03-15,North,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,9,Chidinma,256000
+2025-02-19,West,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,5,Musa,68000
+2025-01-04,South,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,1,Aisha,176000
+2025-02-25,East,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,Musa,144000
+2025-03-13,East,Lagos,Corporate,Store,Printer P50,Electronics,150000,1,Peter,120000
+2025-03-28,West,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,David,144000
+2025-05-01,North,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,4,Grace,256000
+2025-01-16,North,Abuja,Retail,Store,Printer P50,Electronics,150000,10,Chidinma,120000
+2025-02-15,South,Kano,Corporate,Store,Blender B10,Home Appliances,30000,3,Peter,24000
+2025-03-24,South,Kano,Retail,Store,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-04-26,West,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Peter,144000
+2025-03-25,West,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,9,Aisha,256000
+2025-04-15,South,Lagos,Corporate,Online,Printer P50,Electronics,150000,3,Grace,120000
+2025-04-22,North,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,5,Grace,176000
+2025-01-25,North,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,2,Chidinma,240000
+2025-01-15,East,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,6,Grace,240000
+2025-03-13,North,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,Grace,144000
+2025-03-06,West,Kano,Corporate,Store,Sofa Classic,Furniture,320000,6,Chidinma,256000
+2025-03-13,North,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,5,Peter,200000
+2025-01-27,West,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,3,Grace,240000
+2025-01-19,West,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Grace,144000
+2025-03-02,East,Abuja,Retail,Store,Sofa Classic,Furniture,320000,5,David,256000
+2025-03-08,West,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,7,David,200000
+2025-03-23,West,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,8,Chidinma,240000
+2025-01-17,West,Lagos,Corporate,Online,Laptop A13,Electronics,420000,4,Grace,336000
+2025-02-25,West,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,6,Musa,200000
+2025-02-08,East,Abuja,Retail,Online,Printer P50,Electronics,150000,3,Musa,120000
+2025-02-25,North,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,6,Aisha,240000
+2025-01-24,South,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,Musa,144000
+2025-02-21,East,Lagos,Corporate,Store,Printer P50,Electronics,150000,6,David,120000
+2025-03-31,South,Kano,Retail,Store,Microwave M20,Home Appliances,60000,8,Aisha,48000
+2025-03-19,West,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,9,Musa,176000
+2025-03-14,North,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,9,Peter,240000
+2025-01-11,West,Abuja,Retail,Online,Laptop A13,Electronics,420000,1,Aisha,336000
+2025-03-28,South,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,6,Peter,176000
+2025-03-13,West,Lagos,Retail,Store,Blender B10,Home Appliances,30000,5,Musa,24000
+2025-03-29,North,Kano,Corporate,Online,Blender B10,Home Appliances,30000,9,Musa,24000
+2025-02-21,South,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,1,Peter,200000
+2025-03-30,South,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,8,David,176000
+2025-02-15,East,Lagos,Retail,Online,Laptop A13,Electronics,420000,8,Grace,336000
+2025-03-10,North,Kano,Retail,Online,Desktop PC D21,Electronics,300000,10,Peter,240000
+2025-04-14,North,Abuja,Retail,Online,Printer P50,Electronics,150000,1,Peter,120000
+2025-01-27,North,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,6,Musa,176000
+2025-01-06,North,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,Grace,144000
+2025-01-20,North,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,10,Peter,48000
+2025-04-16,South,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,1,Aisha,176000
+2025-04-19,North,Kano,Retail,Store,Smartphone Z10,Electronics,250000,5,Musa,200000
+2025-04-03,South,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,8,Peter,200000
+2025-01-13,West,Abuja,Corporate,Online,Printer P50,Electronics,150000,4,David,120000
+2025-03-11,South,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,3,Aisha,176000
+2025-01-20,South,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,7,Aisha,144000
+2025-01-08,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,4,Peter,120000
+2025-02-24,East,Kano,Corporate,Online,Printer P50,Electronics,150000,10,David,120000
+2025-02-26,West,Lagos,Retail,Online,Printer P50,Electronics,150000,1,Grace,120000
+2025-02-24,North,Kano,Corporate,Store,Printer P50,Electronics,150000,4,David,120000
+2025-03-26,West,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,5,Aisha,48000
+2025-02-22,South,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,7,Chidinma,176000
+2025-01-04,North,Lagos,Retail,Store,Printer P50,Electronics,150000,4,Grace,120000
+2025-04-19,East,Kano,Corporate,Online,Sofa Classic,Furniture,320000,6,Chidinma,256000
+2025-03-16,South,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,6,Aisha,256000
+2025-02-27,West,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,4,Aisha,48000
+2025-04-02,North,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,8,David,68000
+2025-02-28,South,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,2,Grace,68000
+2025-02-09,North,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,9,Chidinma,68000
+2025-03-18,South,Kano,Retail,Store,Laptop A13,Electronics,420000,3,Peter,336000
+2025-03-02,North,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,5,Peter,240000
+2025-03-19,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,1,Chidinma,24000
+2025-01-27,West,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,Aisha,176000
+2025-03-08,North,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,5,Chidinma,256000
+2025-03-07,East,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,10,Peter,240000
+2025-03-30,North,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,1,Chidinma,176000
+2025-01-05,South,Kano,Corporate,Online,Blender B10,Home Appliances,30000,6,David,24000
+2025-02-17,North,Lagos,Retail,Online,Laptop A13,Electronics,420000,1,Grace,336000
+2025-01-08,South,Abuja,Corporate,Store,Laptop A13,Electronics,420000,6,Aisha,336000
+2025-03-11,South,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,7,Peter,68000
+2025-01-03,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,7,Grace,120000
+2025-01-04,West,Lagos,Retail,Store,Printer P50,Electronics,150000,10,Chidinma,120000
+2025-03-07,East,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,9,Chidinma,24000
+2025-04-01,South,Kano,Corporate,Online,Sofa Classic,Furniture,320000,8,Aisha,256000
+2025-03-03,East,Abuja,Retail,Store,Blender B10,Home Appliances,30000,9,Musa,24000
+2025-04-03,East,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,3,David,200000
+2025-01-07,East,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,2,David,48000
+2025-03-28,West,Abuja,Retail,Store,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-03-11,East,Kano,Retail,Online,Desktop PC D21,Electronics,300000,9,David,240000
+2025-01-09,East,Abuja,Retail,Online,Laptop A13,Electronics,420000,4,Grace,336000
+2025-03-01,West,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,6,Peter,256000
+2025-04-30,West,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,4,Grace,176000
+2025-04-02,South,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,8,David,68000
+2025-04-14,West,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,7,Musa,336000
+2025-01-29,East,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,Chidinma,176000
+2025-02-10,North,Kano,Retail,Online,Printer P50,Electronics,150000,1,Peter,120000
+2025-02-01,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,4,Aisha,336000
+2025-01-15,South,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,1,Musa,240000
+2025-02-05,West,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,9,David,240000
+2025-02-19,South,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,6,David,200000
+2025-02-22,North,Kano,Retail,Store,Blender B10,Home Appliances,30000,7,Musa,24000
+2025-01-01,South,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,7,Grace,68000
+2025-03-24,West,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,7,Grace,68000
+2025-01-26,South,Kano,Retail,Online,Blender B10,Home Appliances,30000,4,Chidinma,24000
+2025-03-27,West,Kano,Retail,Online,Printer P50,Electronics,150000,9,David,120000
+2025-04-01,North,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,9,Grace,176000
+2025-01-06,East,Kano,Corporate,Online,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-01-04,East,Kano,Retail,Online,Office Chair Pro,Furniture,85000,2,David,68000
+2025-03-31,South,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,David,144000
+2025-02-08,East,Kano,Retail,Online,Printer P50,Electronics,150000,8,Grace,120000
+2025-01-28,North,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,8,Aisha,48000
+2025-01-04,West,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,5,Musa,240000
+2025-02-14,North,Lagos,Retail,Online,Blender B10,Home Appliances,30000,8,Peter,24000
+2025-03-07,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,3,David,336000
+2025-02-20,West,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,7,Grace,336000
+2025-03-30,East,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,9,Grace,68000
+2025-03-26,East,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,8,Musa,240000
+2025-04-13,North,Abuja,Retail,Store,Laptop A13,Electronics,420000,6,Chidinma,336000
+2025-04-02,South,Abuja,Corporate,Online,Printer P50,Electronics,150000,9,Peter,120000
+2025-01-30,East,Kano,Retail,Store,Blender B10,Home Appliances,30000,3,Musa,24000
+2025-03-27,East,Kano,Retail,Store,Blender B10,Home Appliances,30000,4,Aisha,24000
+2025-03-28,North,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,4,Aisha,48000
+2025-02-10,North,Kano,Retail,Store,Smartphone Z10,Electronics,250000,8,Chidinma,200000
+2025-03-29,North,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,6,Musa,24000
+2025-02-13,South,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,1,David,200000
+2025-03-05,West,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,1,Peter,68000
+2025-02-08,North,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,9,Chidinma,24000
+2025-04-10,South,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,3,Chidinma,24000
+2025-01-21,South,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,8,Musa,120000
+2025-02-19,North,Kano,Retail,Store,Office Chair Pro,Furniture,85000,4,David,68000
+2025-03-17,West,Kano,Corporate,Store,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-03-29,East,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,7,David,48000
+2025-03-21,East,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,6,David,240000
+2025-03-03,South,Abuja,Retail,Online,Printer P50,Electronics,150000,6,Peter,120000
+2025-01-13,South,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,10,Musa,240000
+2025-02-19,East,Lagos,Retail,Online,Laptop A13,Electronics,420000,1,Chidinma,336000
+2025-03-21,West,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,1,David,48000
+2025-02-23,North,Lagos,Retail,Online,Printer P50,Electronics,150000,10,Grace,120000
+2025-01-06,West,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,Musa,144000
+2025-03-31,South,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,10,David,120000
+2025-01-08,East,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,8,Grace,48000
+2025-01-09,North,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,7,Aisha,176000
+2025-03-11,East,Abuja,Retail,Online,Blender B10,Home Appliances,30000,1,Peter,24000
+2025-03-01,East,Lagos,Corporate,Store,Printer P50,Electronics,150000,6,Chidinma,120000
+2025-02-13,South,Abuja,Retail,Store,Blender B10,Home Appliances,30000,4,Chidinma,24000
+2025-02-11,South,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,1,Musa,176000
+2025-03-27,South,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,6,David,48000
+2025-03-29,South,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,7,Grace,200000
+2025-04-12,East,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,Peter,176000
+2025-04-23,South,Kano,Corporate,Online,Blender B10,Home Appliances,30000,10,Musa,24000
+2025-04-13,East,Kano,Retail,Online,Printer P50,Electronics,150000,1,David,120000
+2025-01-15,North,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,Peter,144000
+2025-03-27,South,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,10,Peter,336000
+2025-05-01,North,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,2,Aisha,68000
+2025-03-21,West,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,4,Aisha,48000
+2025-01-12,North,Lagos,Corporate,Online,Printer P50,Electronics,150000,9,Aisha,120000
+2025-01-14,South,Abuja,Retail,Store,Laptop A13,Electronics,420000,1,Peter,336000
+2025-04-12,East,Lagos,Retail,Online,Laptop A13,Electronics,420000,9,Aisha,336000
+2025-01-20,West,Abuja,Corporate,Store,Laptop A13,Electronics,420000,9,Grace,336000
+2025-01-04,West,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,6,David,68000
+2025-03-17,North,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,3,Peter,256000
+2025-02-06,North,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,Musa,144000
+2025-01-11,West,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,6,Peter,68000
+2025-01-27,West,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,3,Chidinma,240000
+2025-03-14,North,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,Musa,144000
+2025-01-07,East,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,1,Aisha,176000
+2025-01-24,South,Abuja,Retail,Store,Blender B10,Home Appliances,30000,1,Aisha,24000
+2025-01-12,East,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,2,Grace,48000
+2025-03-03,West,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,7,Aisha,200000
+2025-01-25,West,Kano,Corporate,Online,Laptop A13,Electronics,420000,10,Musa,336000
+2025-03-26,West,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,10,Peter,256000
+2025-01-13,South,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,1,Musa,240000
+2025-03-10,South,Kano,Corporate,Store,Printer P50,Electronics,150000,3,David,120000
+2025-01-14,West,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,3,Aisha,200000
+2025-01-20,North,Lagos,Retail,Store,Laptop A13,Electronics,420000,4,David,336000
+2025-02-23,North,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,Chidinma,144000
+2025-03-08,North,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,3,Peter,120000
+2025-01-02,South,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,Musa,176000
+2025-02-04,North,Kano,Corporate,Online,Laptop A13,Electronics,420000,4,Musa,336000
+2025-02-28,North,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,2,Grace,240000
+2025-04-23,East,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,8,David,68000
+2025-03-22,South,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,10,Musa,176000
+2025-01-08,West,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,7,Musa,176000
+2025-04-06,East,Kano,Retail,Store,Sofa Classic,Furniture,320000,10,Musa,256000
+2025-02-07,West,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,Aisha,144000
+2025-04-01,North,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,4,Grace,48000
+2025-02-25,South,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,10,Grace,200000
+2025-04-09,North,Kano,Corporate,Online,Sofa Classic,Furniture,320000,2,Musa,256000
+2025-03-25,South,Abuja,Corporate,Store,Laptop A13,Electronics,420000,7,Peter,336000
+2025-01-04,North,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,5,Peter,240000
+2025-04-04,South,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,5,Aisha,48000
+2025-03-11,East,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,9,Musa,336000
+2025-01-11,South,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,9,Grace,200000
+2025-02-17,West,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,1,Grace,176000
+2025-01-19,West,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,3,Grace,176000
+2025-03-10,West,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,8,Musa,200000
+2025-04-08,West,Kano,Retail,Store,Blender B10,Home Appliances,30000,1,Peter,24000
+2025-01-03,West,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,1,Aisha,24000
+2025-02-24,North,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,Chidinma,24000
+2025-03-10,West,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,6,Peter,48000
+2025-01-17,West,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,5,David,200000
+2025-01-25,South,Abuja,Retail,Store,Blender B10,Home Appliances,30000,1,Aisha,24000
+2025-04-02,South,Kano,Corporate,Store,Printer P50,Electronics,150000,9,Aisha,120000
+2025-01-22,East,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,Aisha,144000
+2025-03-24,East,Abuja,Retail,Store,Laptop A13,Electronics,420000,10,Musa,336000
+2025-04-27,West,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,4,Grace,240000
+2025-02-22,West,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Aisha,144000
+2025-02-11,East,Abuja,Retail,Store,Laptop A13,Electronics,420000,5,Aisha,336000
+2025-02-28,South,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,Chidinma,144000
+2025-03-09,West,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,1,Aisha,240000
+2025-01-08,South,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,Aisha,144000
+2025-01-04,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-01-28,North,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,10,Musa,68000
+2025-01-19,East,Kano,Retail,Store,Office Chair Pro,Furniture,85000,1,Chidinma,68000
+2025-02-12,North,Lagos,Corporate,Store,Printer P50,Electronics,150000,8,Aisha,120000
+2025-03-14,West,Lagos,Corporate,Store,Laptop A13,Electronics,420000,6,Peter,336000
+2025-03-22,South,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,8,Peter,48000
+2025-04-29,South,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,7,Musa,240000
+2025-02-10,East,Lagos,Corporate,Store,Printer P50,Electronics,150000,8,Aisha,120000
+2025-04-13,East,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,10,Chidinma,48000
+2025-03-08,North,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,Peter,256000
+2025-03-27,West,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,9,Musa,200000
+2025-01-10,South,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,7,Peter,176000
+2025-03-10,South,Lagos,Retail,Store,Sofa Classic,Furniture,320000,4,David,256000
+2025-04-16,South,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,Aisha,176000
+2025-02-28,West,Lagos,Retail,Store,Blender B10,Home Appliances,30000,9,Aisha,24000
+2025-04-28,North,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-01-18,South,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,7,David,48000
+2025-03-11,West,Kano,Retail,Store,Blender B10,Home Appliances,30000,7,Grace,24000
+2025-01-01,West,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,6,Aisha,240000
+2025-02-26,North,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,4,Grace,240000
+2025-02-14,South,Kano,Retail,Store,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-05-01,North,Kano,Corporate,Store,Printer P50,Electronics,150000,3,David,120000
+2025-03-29,West,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,4,Musa,200000
+2025-01-20,North,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,7,Chidinma,200000
+2025-01-05,West,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,3,David,200000
+2025-03-14,East,Kano,Retail,Store,Printer P50,Electronics,150000,8,Chidinma,120000
+2025-02-14,East,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,1,Aisha,68000
+2025-01-06,East,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,6,Chidinma,176000
+2025-02-14,East,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,3,Chidinma,24000
+2025-02-27,North,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,3,David,240000
+2025-04-26,East,Kano,Retail,Store,Smartphone Z10,Electronics,250000,10,Aisha,200000
+2025-03-12,East,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,4,Peter,240000
+2025-04-22,South,Kano,Retail,Store,Sofa Classic,Furniture,320000,5,Grace,256000
+2025-04-23,South,Lagos,Retail,Store,Sofa Classic,Furniture,320000,1,David,256000
+2025-01-20,North,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,4,Aisha,336000
+2025-04-05,South,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,5,Musa,68000
+2025-03-13,East,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,3,Chidinma,48000
+2025-01-15,West,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,4,Aisha,200000
+2025-03-31,East,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,5,Chidinma,336000
+2025-03-26,West,Kano,Retail,Store,Printer P50,Electronics,150000,5,Musa,120000
+2025-01-31,North,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,Peter,144000
+2025-04-20,South,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,Musa,144000
+2025-04-13,West,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,9,Chidinma,200000
+2025-01-18,North,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,4,Peter,68000
+2025-02-12,West,Abuja,Corporate,Store,Laptop A13,Electronics,420000,8,David,336000
+2025-03-08,South,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,6,David,256000
+2025-03-20,North,Lagos,Retail,Store,Printer P50,Electronics,150000,3,Aisha,120000
+2025-01-20,West,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,3,Musa,68000
+2025-03-16,North,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,1,Musa,240000
+2025-03-29,South,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,Aisha,144000
+2025-03-12,West,Lagos,Retail,Online,Laptop A13,Electronics,420000,10,Peter,336000
+2025-04-03,North,Abuja,Corporate,Online,Printer P50,Electronics,150000,4,Grace,120000
+2025-04-23,East,Kano,Retail,Online,Office Chair Pro,Furniture,85000,6,Grace,68000
+2025-01-22,South,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,10,Chidinma,240000
+2025-05-01,East,Lagos,Corporate,Store,Printer P50,Electronics,150000,6,Grace,120000
+2025-04-07,South,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,1,Grace,120000
+2025-01-26,North,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,3,Musa,240000
+2025-01-26,North,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,8,Aisha,240000
+2025-01-02,East,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,9,Chidinma,240000
+2025-01-11,North,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,2,Peter,240000
+2025-03-10,North,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,10,Musa,240000
+2025-01-06,West,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,Aisha,176000
+2025-04-25,North,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,6,Aisha,68000
+2025-03-22,West,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,4,Musa,48000
+2025-04-22,East,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,2,David,176000
+2025-03-17,East,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,3,Chidinma,240000
+2025-04-12,South,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,8,Grace,176000
+2025-04-05,West,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,8,Aisha,200000
+2025-03-22,South,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,2,Chidinma,68000
+2025-04-30,North,Kano,Corporate,Store,Printer P50,Electronics,150000,7,Aisha,120000
+2025-03-14,South,Kano,Retail,Online,Blender B10,Home Appliances,30000,8,Musa,24000
+2025-01-27,West,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,2,Aisha,68000
+2025-03-28,West,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,David,144000
+2025-03-10,West,Kano,Retail,Online,Office Chair Pro,Furniture,85000,9,Aisha,68000
+2025-01-07,West,Abuja,Corporate,Online,Laptop A13,Electronics,420000,9,David,336000
+2025-03-12,North,Abuja,Retail,Online,Sofa Classic,Furniture,320000,5,Chidinma,256000
+2025-04-22,West,Lagos,Retail,Online,Sofa Classic,Furniture,320000,1,Aisha,256000
+2025-03-17,North,Kano,Retail,Online,Blender B10,Home Appliances,30000,10,Peter,24000
+2025-02-14,East,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Grace,144000
+2025-03-16,West,Kano,Corporate,Online,Sofa Classic,Furniture,320000,9,Musa,256000
+2025-01-02,West,Abuja,Corporate,Online,Laptop A13,Electronics,420000,2,Aisha,336000
+2025-01-27,North,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,6,Musa,240000
+2025-01-27,North,Kano,Corporate,Store,Blender B10,Home Appliances,30000,4,David,24000
+2025-02-01,South,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,7,Musa,256000
+2025-01-11,North,Kano,Corporate,Store,Sofa Classic,Furniture,320000,1,Aisha,256000
+2025-04-13,North,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,3,Peter,240000
+2025-02-04,North,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,6,Musa,24000
+2025-03-05,East,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,Musa,176000
+2025-01-08,North,Abuja,Retail,Online,Blender B10,Home Appliances,30000,9,Peter,24000
+2025-03-21,West,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,10,Peter,176000
+2025-04-07,East,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,9,Chidinma,176000
+2025-03-02,West,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,4,David,48000
+2025-04-13,South,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,David,176000
+2025-03-05,West,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,Musa,256000
+2025-04-24,West,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,5,Grace,68000
+2025-01-05,North,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,10,Aisha,200000
+2025-04-21,East,Abuja,Retail,Store,Sofa Classic,Furniture,320000,8,Musa,256000
+2025-01-04,North,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,7,Peter,120000
+2025-01-05,North,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,Peter,144000
+2025-04-06,West,Abuja,Retail,Online,Sofa Classic,Furniture,320000,10,Musa,256000
+2025-02-05,North,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,7,Grace,120000
+2025-03-18,South,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,David,176000
+2025-01-30,North,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,David,176000
+2025-02-28,South,Abuja,Corporate,Store,Printer P50,Electronics,150000,6,David,120000
+2025-02-06,East,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,8,Musa,240000
+2025-01-15,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,10,Grace,336000
+2025-04-24,North,Lagos,Retail,Store,Blender B10,Home Appliances,30000,1,David,24000
+2025-01-17,East,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,7,Chidinma,336000
+2025-02-02,North,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,Peter,144000
+2025-03-24,South,Kano,Retail,Online,Blender B10,Home Appliances,30000,10,Grace,24000
+2025-02-01,West,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,1,Grace,176000
+2025-04-02,South,Kano,Retail,Online,Sofa Classic,Furniture,320000,6,Peter,256000
+2025-03-28,South,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,10,David,48000
+2025-04-10,West,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,7,Grace,68000
+2025-04-01,East,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,1,Grace,200000
+2025-04-19,North,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,David,176000
+2025-02-19,North,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,6,Peter,200000
+2025-03-15,North,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,7,Peter,68000
+2025-02-16,South,Kano,Retail,Store,Office Chair Pro,Furniture,85000,4,Musa,68000
+2025-02-03,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,6,Chidinma,336000
+2025-02-06,East,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,4,Musa,200000
+2025-03-18,West,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,3,Aisha,24000
+2025-01-07,North,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,9,Peter,256000
+2025-01-19,North,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,7,Musa,176000
+2025-03-27,South,Lagos,Corporate,Online,Printer P50,Electronics,150000,5,Chidinma,120000
+2025-03-11,South,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,9,Peter,68000
+2025-01-26,North,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,10,Chidinma,200000
+2025-04-10,East,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,7,David,68000
+2025-03-02,East,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,6,Aisha,240000
+2025-03-20,West,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,10,David,240000
+2025-03-30,East,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,Musa,144000
+2025-01-07,South,Abuja,Retail,Online,Printer P50,Electronics,150000,7,Aisha,120000
+2025-03-07,North,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,5,David,176000
+2025-02-01,East,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,2,Aisha,336000
+2025-01-25,West,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,9,Peter,144000
+2025-01-14,North,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,5,Peter,176000
+2025-04-09,North,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,Grace,144000
+2025-04-10,East,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,2,Grace,48000
+2025-03-11,North,Kano,Retail,Online,Desktop PC D21,Electronics,300000,5,David,240000
+2025-01-17,North,Kano,Retail,Store,Desktop PC D21,Electronics,300000,9,Aisha,240000
+2025-03-13,South,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,1,Aisha,176000
+2025-03-20,West,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,5,Aisha,24000
+2025-03-31,South,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,Chidinma,144000
+2025-04-30,North,Kano,Retail,Online,Desktop PC D21,Electronics,300000,6,Aisha,240000
+2025-01-01,West,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,3,Grace,176000
+2025-04-03,North,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,5,Peter,256000
+2025-03-02,South,Kano,Retail,Online,Printer P50,Electronics,150000,2,Peter,120000
+2025-02-18,West,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,David,144000
+2025-04-17,West,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,10,Aisha,24000
+2025-01-03,North,Lagos,Retail,Store,Printer P50,Electronics,150000,4,David,120000
+2025-01-01,North,Kano,Retail,Online,Blender B10,Home Appliances,30000,1,David,24000
+2025-03-26,North,Lagos,Retail,Online,Blender B10,Home Appliances,30000,6,Peter,24000
+2025-04-17,South,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,Chidinma,144000
+2025-01-27,South,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,8,Grace,48000
+2025-04-21,South,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,2,Aisha,48000
+2025-02-17,South,Kano,Retail,Store,Office Chair Pro,Furniture,85000,1,Peter,68000
+2025-04-03,North,Kano,Corporate,Online,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-02-28,North,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,10,Aisha,48000
+2025-04-04,West,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,1,Chidinma,120000
+2025-03-31,South,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,9,Grace,48000
+2025-04-11,North,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,5,Grace,48000
+2025-04-22,East,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,8,Chidinma,176000
+2025-02-18,West,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,2,Aisha,68000
+2025-04-27,South,Abuja,Retail,Store,Sofa Classic,Furniture,320000,7,Aisha,256000
+2025-02-10,South,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,4,Chidinma,200000
+2025-04-26,East,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,6,David,120000
+2025-03-22,North,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,8,David,240000
+2025-03-08,West,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,10,Chidinma,240000
+2025-04-11,North,Kano,Corporate,Store,Sofa Classic,Furniture,320000,1,Musa,256000
+2025-04-17,South,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,3,Musa,256000
+2025-03-05,West,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,6,Peter,120000
+2025-01-29,East,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,9,Grace,144000
+2025-03-31,South,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,2,Peter,48000
+2025-02-11,East,Kano,Retail,Store,Printer P50,Electronics,150000,5,Peter,120000
+2025-04-11,East,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,Peter,144000
+2025-02-05,West,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,7,Aisha,68000
+2025-01-19,East,Abuja,Corporate,Store,Laptop A13,Electronics,420000,3,David,336000
+2025-03-02,East,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,2,Aisha,240000
+2025-04-03,East,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,3,Aisha,200000
+2025-02-14,East,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,7,David,120000
+2025-04-09,West,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,7,Peter,336000
+2025-02-12,South,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,Musa,144000
+2025-01-13,West,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,2,Grace,256000
+2025-03-20,North,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,6,Grace,256000
+2025-03-14,East,Kano,Corporate,Online,Blender B10,Home Appliances,30000,3,Aisha,24000
+2025-01-21,North,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,3,Chidinma,336000
+2025-04-07,South,Lagos,Retail,Store,Blender B10,Home Appliances,30000,9,Peter,24000
+2025-04-18,East,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,4,Chidinma,256000
+2025-04-03,North,Abuja,Corporate,Store,Printer P50,Electronics,150000,5,David,120000
+2025-02-14,South,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,8,Peter,68000
+2025-04-13,North,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,1,Chidinma,48000
+2025-03-31,South,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,3,Musa,176000
+2025-02-11,West,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,2,Aisha,144000
+2025-03-17,South,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,9,David,200000
+2025-04-22,West,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,8,Aisha,240000
+2025-04-28,West,Lagos,Retail,Online,Printer P50,Electronics,150000,6,Chidinma,120000
+2025-02-13,North,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,9,Musa,68000
+2025-02-13,North,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,3,David,48000
+2025-04-07,South,Abuja,Retail,Store,Laptop A13,Electronics,420000,7,Peter,336000
+2025-04-03,South,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,5,David,68000
+2025-03-02,East,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,7,David,48000
+2025-01-30,East,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,Peter,144000
+2025-01-21,West,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,3,Aisha,200000
+2025-01-16,East,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,Grace,144000
+2025-04-02,East,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,2,Grace,68000
+2025-02-14,North,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,5,Musa,200000
+2025-02-09,West,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,Aisha,176000
+2025-04-14,South,Abuja,Retail,Online,Blender B10,Home Appliances,30000,2,David,24000
+2025-03-22,East,Kano,Corporate,Store,Laptop A13,Electronics,420000,10,Aisha,336000
+2025-02-10,North,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,Peter,176000
+2025-02-06,South,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,10,David,176000
+2025-02-27,West,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,6,Peter,256000
+2025-03-10,North,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,8,Peter,336000
+2025-04-13,East,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,9,Peter,176000
+2025-02-27,North,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,Grace,176000
+2025-03-06,South,Abuja,Retail,Online,Printer P50,Electronics,150000,4,Aisha,120000
+2025-02-24,East,Kano,Retail,Store,Desktop PC D21,Electronics,300000,7,Grace,240000
+2025-01-10,South,Lagos,Corporate,Online,Laptop A13,Electronics,420000,4,Grace,336000
+2025-02-17,West,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,4,Aisha,48000
+2025-02-05,North,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,6,Chidinma,144000
+2025-02-02,South,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,8,Peter,240000
+2025-02-24,West,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,10,Chidinma,256000
+2025-03-29,West,Lagos,Retail,Store,Blender B10,Home Appliances,30000,1,Chidinma,24000
+2025-01-07,East,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,2,Peter,68000
+2025-04-25,West,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,5,Aisha,68000
+2025-02-01,South,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,8,Aisha,200000
+2025-02-05,North,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,8,Peter,240000
+2025-04-19,West,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,Musa,144000
+2025-04-18,North,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,4,Peter,48000
+2025-01-22,South,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,3,Peter,48000
+2025-04-16,South,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,6,Aisha,176000
+2025-03-09,East,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,Peter,256000
+2025-01-19,South,Kano,Retail,Store,Laptop A13,Electronics,420000,3,David,336000
+2025-04-28,East,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,Chidinma,144000
+2025-03-22,South,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,1,Chidinma,48000
+2025-03-13,West,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,5,Peter,200000
+2025-04-25,West,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,8,Chidinma,24000
+2025-02-01,North,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,6,Chidinma,144000
+2025-04-28,East,Kano,Retail,Store,Microwave M20,Home Appliances,60000,1,Musa,48000
+2025-04-27,East,Kano,Retail,Online,Printer P50,Electronics,150000,5,Grace,120000
+2025-03-12,North,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,1,Grace,68000
+2025-01-20,South,Lagos,Corporate,Store,Printer P50,Electronics,150000,7,Peter,120000
+2025-01-17,North,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,Chidinma,144000
+2025-01-15,North,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,8,Chidinma,68000
+2025-03-25,North,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,4,David,256000
+2025-03-30,West,Kano,Retail,Store,Smartphone Z10,Electronics,250000,6,Peter,200000
+2025-03-20,West,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,5,Musa,176000
+2025-02-18,South,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,8,Aisha,240000
+2025-03-28,South,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,10,Musa,48000
+2025-01-06,South,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,Grace,144000
+2025-04-20,South,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,3,Aisha,48000
+2025-01-29,South,Kano,Retail,Store,Blender B10,Home Appliances,30000,4,David,24000
+2025-04-08,East,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,4,Aisha,48000
+2025-03-02,West,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,Musa,144000
+2025-01-27,North,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,9,David,68000
+2025-03-30,West,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,9,Aisha,68000
+2025-01-31,North,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,Grace,144000
+2025-01-10,North,Lagos,Corporate,Store,Printer P50,Electronics,150000,2,Grace,120000
+2025-01-06,East,Kano,Corporate,Store,Blender B10,Home Appliances,30000,3,Chidinma,24000
+2025-03-30,North,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,5,David,24000
+2025-04-25,East,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,7,Grace,24000
+2025-04-08,East,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,Chidinma,144000
+2025-02-07,East,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,Peter,144000
+2025-03-21,South,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,10,Aisha,48000
+2025-03-03,North,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,8,Musa,200000
+2025-01-16,North,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,Aisha,24000
+2025-03-26,North,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,Musa,144000
+2025-02-07,East,Lagos,Corporate,Online,Printer P50,Electronics,150000,1,Musa,120000
+2025-04-09,North,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,3,Chidinma,240000
+2025-04-08,West,Kano,Retail,Online,Sofa Classic,Furniture,320000,5,Chidinma,256000
+2025-02-23,West,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,1,David,240000
+2025-02-25,West,Lagos,Corporate,Online,Printer P50,Electronics,150000,4,Musa,120000
+2025-04-30,South,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,2,Peter,200000
+2025-04-20,North,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,10,Aisha,200000
+2025-04-19,South,Abuja,Corporate,Store,Printer P50,Electronics,150000,2,Chidinma,120000
+2025-03-08,South,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,9,Peter,200000
+2025-02-05,South,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,4,David,256000
