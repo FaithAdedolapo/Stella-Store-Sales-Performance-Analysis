@@ -1,19 +1,14 @@
-# [Project Title]
-> *One sentence. What did you analyze, build, or solve - and why does it matter?*
+# Sales Performance Analysis – Retail & Corporate Sales Performance (2025)
+> *An end-to-end analysis of multi-region sales data to identify revenue drivers, evaluate profitability, and recommend strategies for growth.*
 
 ---
 
 ## ⚙️ Project Type Flags
-> *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
 
 - [ ] Exploratory Data Analysis (EDA)
-- [ ] SQL Analysis / Querying
 - [ ] Dashboard / Data Visualization
-- [ ] Data Pipeline / ETL
-- [ ] Predictive Modelling / Machine Learning
 - [ ] Data Cleaning / Wrangling
-- [ ] End-to-End (multiple of the above)
-- [ ] Other: ___________
+- [ ] End-to-End
 
 ---
 
@@ -24,14 +19,13 @@
 4. [Repository Structure](#4-repository-structure)
 5. [Data Workflow](#5-data-workflow)
 6. [Data Model & Schema](#6-data-model--schema)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
-8. [Analysis & Metrics](#8-analysis--metrics)
-9. [Key Insights](#9-key-insights)
-10. [Recommendations](#10-recommendations)
-11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Future Enhancements](#12-future-enhancements)
-13. [Deliverables](#13-deliverables)
-14. [Author](#14-author)
+7. [Analysis & Metrics](#7-analysis--metrics)
+8. [Key Insights](#8-key-insights)
+9. [Recommendations](#9-recommendations)
+10. [Assumptions & Limitations](#10-assumptions--limitations)
+11. [Future Enhancements](#11-future-enhancements)
+12. [Deliverables](#12-deliverables)
+13. [Author](#13-author)
 
 ---
 
@@ -56,13 +50,13 @@
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-**Context:** [The business, research, or personal situation that motivated this project.]
+**Context:** A retail company operating across four regions wanted to better understand its sales performance, revenue drivers, and profitability trends in 2025.
 
-**Problem Statement:** [The specific question or challenge you were addressing.]
+**Problem Statement:** Despite strong overall revenue, management lacked clear insights into which products, regions, and sales channels were contributing most to profitability.
 
-**Approach:** [In 1–2 sentences - how did you tackle it?]
+**Approach:** Sales transaction data from January–May 2025 was cleaned, transformed, and analyzed using Excel and Power BI to evaluate regional performance, product profitability, customer segments, and sales channels.
 
-**Outcome:** [What did you produce or discover?]
+**Outcome:** The analysis revealed key revenue drivers, identified the highest-performing products and regions, and produced actionable recommendations to improve profitability and support business expansion.
 
 ---
 
@@ -84,10 +78,11 @@
   (These can't fail - which means they can't succeed either.)
 -->
 
-- **Primary Objective:** [The main thing you set out to do]
-- **Secondary Objective 1:** [Supporting goal]
-- **Secondary Objective 2:** [Supporting goal]
-- **Secondary Objective 3:** [Remove if not applicable]
+- **Primary Objective:** Determine the key drivers of revenue and profit across regions, products, sales channels, and customer segments.
+- **Secondary Objective 1:** Identify the top-performing products contributing most to profit.
+- **Secondary Objective 2:** Evaluate regional sales performance across the four operating regions.
+- **Secondary Objective 3:** Compare profitability across sales channels (Online vs In-Store).
+- **Secondary Objective 3:** Assess differences in performance between Retail and Corporate customers.
 
 > 💡 *Every analysis decision in this project traces back to one of these objectives.*
 
@@ -112,10 +107,10 @@
 
 | Dimension | Details |
 |-----------|---------|
-| **In Scope** | [What is included - data sources, time periods, segments] |
-| **Out of Scope** | [What you explicitly excluded - and a brief reason why] |
-| **Time Period** | [Date range of the data or the project itself] |
-| **Granularity** | [Unit of analysis - row-level, daily aggregates, per-user, etc.] |
+| **In Scope** | Sales transaction data including revenue, product categories, regions, sales channels, and customer types |
+| **Out of Scope** | Marketing spend data and customer demographics |
+| **Time Period** | January – May 2025 |
+| **Granularity** | Transaction-level sales data |
 
 ### Tools & Technologies
 
@@ -126,92 +121,97 @@
 
 | Category | Tool(s) Used |
 |----------|-------------|
-| Data Storage | [e.g., PostgreSQL, CSV files, BigQuery, S3] |
-| Data Processing | [e.g., Python, R, SQL, Excel, dbt] |
-| Analysis | [e.g., pandas, dplyr, custom SQL queries] |
-| Visualization | [e.g., Matplotlib, Tableau, Power BI, Looker] |
+| Data Storage | Excel Dataset |
+| Data Processing | Microsoft Excel |
+| Analysis | Excel Pivot Tables |
+| Visualization | Power BI |
 | Version Control | [e.g., Git / GitHub] |
-| Documentation | [e.g., Markdown, Notion] |
-| Other | [Any additional tools] |
+| Documentation | Git / GitHub |
+| Other | Markdown |
 
 ---
 
 ## 4. Repository Structure
 
 ```
-[project-root]/
+sales-performance-analysis/
 │
 ├── data/
-│   ├── raw/                  # Original, unmodified source data - never edited
-│   ├── processed/            # Cleaned and transformed data
-│   └── external/             # Reference data, lookup tables, third-party files
+│   ├── raw/
+│   └── processed/
 │
-├── notebooks/                # Jupyter, R Markdown, or Colab notebooks
+├── dashboard/
+│   └── sales_dashboard.pbix
 │
-├── scripts/                  # Reusable .py, .R, or .sh processing files
+├── reports/
+│   └── Sales_Performance_Report.pdf
 │
-├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
-│   ├── exploratory/          # Ad-hoc or investigative queries
-│   ├── transformations/      # Cleaning and reshaping logic
-│   └── final/                # Production-ready or presentation queries
+├── presentation/
+│   └── Sales_Performance_Presentation.pptx
 │
-├── reports/                  # Final outputs: PDFs, slide decks, Word docs
+├── visuals/
+│   └── dashboard_preview.png
 │
-├── visuals/                  # Exported charts, dashboard screenshots, ERD diagrams
-│
-├── docs/                     # Data dictionaries, schema notes, reference material
-│
-├── project_metadata.yml      # Machine-readable metadata (optional)
-└── README.md                 # You are here
+└── README.md
+
 ```
-
-> ⚠️ *Delete folders you didn't use. An empty folder is worse than no folder.*
-> SQL-heavy projects: keep `queries/`. Analysis-only projects: keep `notebooks/`. Both? Keep both.
-
----
-
 ## 5. Data Workflow
 
-<!--
-  Show how data moved through your project - from source to output.
-  Every transformation decision should be traceable here.
-
-  WHAT GOOD LOOKS LIKE:
-  1. Source: "Monthly CSV exports pulled from the internal POS system.
-              Five files, one per region, covering Jan 2023–Jun 2024."
-  2. Ingestion: "Loaded into Python using pandas. Files concatenated into
-                 a single dataframe (approx. 340,000 rows)."
-  3. Cleaning: "Removed 1.2% of rows with null transaction IDs.
-                Standardised date formats across regional files.
-                Resolved product category naming inconsistencies (3 variants → 1)."
-  4. Transformation: "Created a returns_rate field at product-category level.
-                      Aggregated to weekly and regional grain for trend analysis."
-  5. Analysis: "Descriptive statistics, regional comparison, return rate
-                segmentation by product category."
-  6. Output: "Summary report (PDF), annotated notebook, processed CSV."
-
-  WHAT TO AVOID:
-  ❌ "Data was cleaned and analysed." (No chain. No decisions. No trust.)
--->
-
 ```
-[Data Source(s)]
+Raw Sales Dataset
       ↓
-[Ingestion / Collection Method]
+Data Cleaning & Validation
       ↓
-[Cleaning & Transformation]
+Feature Engineering
       ↓
-[Analysis / Modelling / Querying]
+Exploratory Data Analysis
       ↓
-[Output / Visualisation / Reporting]
+Dashboard Visualisation
+      ↓
+Business Insights & Recommendations
 ```
 
-1. **Source:** [Where did the data come from? Format, size, access method.]
-2. **Ingestion:** [How was it brought in?]
-3. **Cleaning:** [What issues did you find and fix?]
-4. **Transformation:** [What new fields, aggregations, or structures did you create?]
-5. **Analysis:** [What methods - statistical, visual, query-based, model-based?]
-6. **Output:** [What form do the results take?]
+## Sales Performance Analysis 2025
+
+### Source
+Sales transaction dataset containing **2,098 transactions across four regions**.
+
+### Ingestion
+The dataset was imported into **Microsoft Excel** for preprocessing and transformation.
+
+### Data Cleaning
+The following checks were performed to ensure data quality:
+
+- Checked for duplicate records *(none found)*
+- Verified missing values
+- Validated date formats
+- Confirmed accuracy of **price** and **quantity** fields
+
+### Data Transformation
+New calculated fields were created to support analysis:
+
+- **Revenue = Unit Price × Quantity**
+- **COGS = Cost Price × Quantity**
+- **Profit = Revenue − COGS**
+- **Month Number**
+- **Month Name**
+
+The dataset expanded from **11 raw columns to 16 analytical columns** after transformation.
+
+### Analysis
+The analysis focused on identifying key business insights, including:
+
+- Revenue distribution by **region**
+- Profitability by **product category**
+- Sales comparison across **sales channels**
+- **Customer segmentation** analysis
+
+### Output
+The final deliverables include:
+
+- **Power BI Interactive Dashboard**
+- **Analytical Report**
+- **Business Recommendation Presentation**
 
 ---
 
@@ -238,115 +238,30 @@
      if a formal schema doesn't apply. Even one paragraph is more helpful than nothing.
 -->
 
-### Dataset / Table: `[name]`
+### Dataset: `Sales Transactions`
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
-| `[field_1]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[field_2]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[field_3]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
+| `Transaction_ID` | Integer | Unique transaction identifier | 1023 |
+| `Date` | Date | Transaction date | 2025-03-14 |
+| `Region` | String | Sales region | East |
+| `City` | String | Sales city | Lagos |
+| `Customer_Type` | String | Retail or Corporate customer | Retail |
+| `Sales_Channel` | String | Online or In-Store | Online |
+| `Product_Category` | String | Product group | Electronics |
+| `Product_Name` | String | Product sold | Laptop A13 |
+| `Quantity` | Integer | Units sold | 3 |
+| `Unit_Price` | Float | Price per unit | ₦450,000 |
+| `Cost_Price` | Float | Cost per unit | ₦350,000 |
+| `Revenue` | Float | Sales revenue | ₦1,350,000 |
+| `COGS` | Float | Cost of goods sold | ₦1,050,000 |
+| `Profit` | Float | Revenue minus cost | ₦300,000 |
 
-> **Row count (approx.):** [X rows]
-> **Date range:** [Start] – [End]
-> **Key join / relationship:** [e.g., `orders.customer_id` → `customers.id`]
-
-*Add additional table blocks as needed for multi-table projects.*
-
----
-
-## 7. ERD - Entity Relationship Diagram
-### *(Primarily for SQL Projects - remove this section if not applicable)*
-
-<!--
-  An ERD shows how your tables connect to each other visually.
-  It is the fastest way for a reviewer to understand the data structure
-  of a SQL project without reading every query.
-
-  HOW TO INCLUDE YOUR ERD:
-  Option A - Image embed (most common):
-    Export your ERD from dbdiagram.io, DBeaver, Lucidchart, or similar.
-    Save to /visuals/erd.png and reference it below.
-
-  Option B - dbdiagram.io code block (version-controllable):
-    Paste your schema definition code directly in the fenced block below.
-    Anyone can paste it into dbdiagram.io to regenerate the visual.
-
-  Option C - Mermaid diagram (renders natively in GitHub):
-    Use the mermaid code block syntax below.
-    GitHub will render this as a diagram automatically.
-
-  PICK ONE. Don't use all three. Delete the options you don't use.
--->
-
-### Option A - Embedded Image
-![ERD Diagram](visuals/erd.png)
-*[Brief caption: e.g., "Three-table schema - orders, customers, and products joined on shared IDs."]*
+> **Row count (approx.):** 2,098 transactions.
 
 ---
 
-### Option B - dbdiagram.io Schema Definition
-```
-Table orders {
-  order_id    int     [pk]
-  customer_id int     [ref: > customers.customer_id]
-  product_id  int     [ref: > products.product_id]
-  order_date  date
-  amount      float
-}
-
-Table customers {
-  customer_id int  [pk]
-  region_code string
-  signup_date date
-}
-
-Table products {
-  product_id   int    [pk]
-  category     string
-  unit_price   float
-}
-```
-*Paste this into [dbdiagram.io](https://dbdiagram.io) to view the visual.*
-
----
-
-### Option C - Mermaid Diagram *(renders on GitHub)*
-```mermaid
-erDiagram
-    ORDERS {
-        int order_id PK
-        int customer_id FK
-        int product_id FK
-        date order_date
-        float amount
-    }
-    CUSTOMERS {
-        int customer_id PK
-        string region_code
-        date signup_date
-    }
-    PRODUCTS {
-        int product_id PK
-        string category
-        float unit_price
-    }
-    ORDERS ||--o{ CUSTOMERS : "placed by"
-    ORDERS ||--o{ PRODUCTS : "contains"
-```
-
----
-
-**Table Relationships Summary:**
-
-| Relationship | Join Key | Type |
-|-------------|----------|------|
-| `orders` → `customers` | `customer_id` | Many-to-One |
-| `orders` → `products` | `product_id` | Many-to-One |
-| [Add rows as needed] | | |
-
----
-
-## 8. Analysis & Metrics
+## 7. Analysis & Metrics
 
 <!--
   Explain what you measured and how - before you share what you found.
@@ -373,9 +288,10 @@ erDiagram
 
 | Metric | Plain-Language Definition | Why It Matters |
 |--------|--------------------------|----------------|
-| `[Metric 1]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 2]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 3]` | [What it measures, in one sentence] | [What decision or question it answers] |
+| `Revenue` | Total sales generated | Measures overall business performance |
+| `Profit` | Revenue minus COGS | Indicates profitability |
+| `Profit Margin` | Profit ÷ Revenue | Measures operational efficiency |
+| `Transaction Count` | Number of transactions | Indicates customer demand |
 
 ### Methods Used
 
@@ -388,7 +304,7 @@ erDiagram
 
 ---
 
-## 9. Key Insights
+## 8. Key Insights
 
 <!--
   Findings + implications. Not just what happened - what it means.
@@ -408,21 +324,21 @@ erDiagram
   Aim for 3–6 insights. Quality over quantity.
 -->
 
-**Insight 1: [Short descriptive headline]**
-[What you found + what it suggests. One short paragraph.]
+**Insight 1: Electronics products generate the highest profit**
+Laptop A13 alone generated ₦105.3M profit, making it the top performing product.
 
-**Insight 2: [Short descriptive headline]**
-[What you found + what it suggests.]
+**Insight 2: East region leads overall performance**
+East region generated ₦643M revenue and ₦128.6M profit, outperforming other regions.
 
-**Insight 3: [Short descriptive headline]**
-[What you found + what it suggests.]
+**Insight 3: In-Store remains the primary sales channel**
+In-Store contributes 53% of total revenue, while Online accounts for 47%.
 
-**Insight 4 (if applicable): [Short descriptive headline]**
-[What you found + what it suggests.]
+**Insight 4: Profit margin remains consistent across segments**
+Both Retail and Corporate customers maintain roughly 20% profit margin, indicating stable pricing and cost structure.
 
 ---
 
-## 10. Recommendations
+## 9. Recommendations
 
 <!--
   Action-oriented. Addressed to a real audience.
@@ -445,22 +361,22 @@ erDiagram
 
 | Priority | Recommendation | Based On | Suggested Owner |
 |----------|---------------|----------|-----------------|
-| High | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Low | [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
+| High | Increase marketing for high-margin products (Laptop A13, Sofa Classic, Desktop PC D21) | Product profit analysis | Marketing Team |
+| High | Expand online sales through digital campaigns | Channel performance analysis | Digital Marketing |
+| Medium | Review pricing strategy for low-profit appliances | Product margin analysis | Product Management |
+| High | Expand operations in East and West regions | Regional revenue analysis | Sales Strategy|
 
 ---
 
-## 11. Assumptions & Limitations
+## 10. Assumptions & Limitations
 
 <!--
   WHAT GOOD LOOKS LIKE:
-  Assumption: "Transaction records were assumed to be complete for all five regions.
-               No validation was performed against source system record counts."
-  Limitation: "The analysis cannot distinguish between returns initiated by
-               the customer vs. returns initiated by the business (e.g., recalls).
-               If business-initiated returns are concentrated in Region A, the
-               return rate finding may reflect a policy decision, not a quality issue."
+  Assumption: "Sales data represents all transactions for the period.
+               Product costs remained stable during the analysis period."
+  Limitation: "Marketing spend data was not included
+               May 2025 data is partial and not directly comparable to full months.
+               Customer demographic data was unavailable"
 
   WHAT TO AVOID:
   ❌ Leaving this section blank or writing "None known."
@@ -469,21 +385,17 @@ erDiagram
 -->
 
 ### Assumptions
-- [What did you treat as true without being able to verify?]
-- [What simplifications did you make for scope or feasibility?]
-- [What domain rules or definitions did you accept as given?]
+- Sales data represents all transactions for the period.
+- Product costs remained stable during the analysis period.
 
 ### Limitations
-- [What gaps exist in the data?]
-- [What analysis was out of scope but could affect interpretation?]
-- [What would a more rigorous version of this project include?]
-- [Are there known biases in the data source or collection method?]
-
-> *The goal here is pre-emptive Q&A. What would a thoughtful skeptic push back on? Document the answer here, before they ask.*
+- Marketing spend data was not included.
+- May 2025 data is partial and not directly comparable to full months.
+- Customer demographic data was unavailable.
 
 ---
 
-## 12. Future Enhancements
+## 11. Future Enhancements
 
 <!--
   WHAT GOOD LOOKS LIKE:
@@ -498,33 +410,33 @@ erDiagram
   ❌ Listing aspirational features that don't follow logically from the work.
 -->
 
-- [ ] [Enhancement 1 - specific and traceable to a real gap in this project]
-- [ ] [Enhancement 2]
-- [ ] [Enhancement 3]
-- [ ] [Enhancement 4]
+- [ ] Build an automated sales dashboard with scheduled data refresh
+- [ ] Incorporate marketing campaign data to analyse ROI
+- [ ] Develop predictive models for future sales forecasting
+- [ ] Expand analysis to cover full-year sales data
 
 ---
 
-## 13. Deliverables
+## 12. Deliverables
 
 | Deliverable | Description | Location |
 |-------------|-------------|----------|
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
+| Power BI Dashboard | Interactive visualization of sales performance | /dashboard/ |
+| Project Report | Detailed analysis and insights | /reports/ |
+| Presentation | Business presentation of findings | /presentation/ |
+| Dataset | Raw and processed sales dataset | /data/ |
 
 ---
 
-## 14. Author
+## 13. Author
 
-**[Your Name]**
-[Your role or title - current or target]
+**Faith Adedolapo**
+Data Analyst | Business Analyst
 
-- 🔗 [LinkedIn URL]
-- 💼 [Portfolio or GitHub profile URL]
-- 📧 [Email - optional]
+- 🔗 [LinkedIn URL](https://www.linkedin.com/in/faithadedolapoolayiwola)
+- 💼 [Portfolio or GitHub profile URL](https://faithadedolapo.github.io/)
+- 📧 [Email](olayiwolaadefaith@gmail.com)
 
 ---
 
-*Last updated: [Month YYYY]*
-*If this template helped you, consider starring the repository.*
+*Last updated: [03 2026]*
